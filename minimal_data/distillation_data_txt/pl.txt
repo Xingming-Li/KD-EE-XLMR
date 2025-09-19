@@ -1,0 +1,892 @@
+też właśnie myślałem o koli ale wolałem sie upewnić żeby jakoś nie uszkodzić szczotki :)
+
+Katalog szczotek elektrycznych firmy “Simar” Umieściłem ten katalog w "Instrukcje" ale został usunięty przez moderatora. Dodaję ponownie tutaj, ponieważ kilka osób prosiło o podesłanie na PW. Jeśli zły dział to proszę o przeniesienie lub wskazanie miejsca gdzie mogę udostępnić ten katalog.
+
+Elektro Maszyny i Urządzenia piottro1 02 Lip 2014 20:43 Odpowiedzi: 0 Wyświetleń: 2382
+
+Wcześniej pisałem razem z (at)Darkdarkman i pisałem o większej szczotce, a klej powinien dać spokojnie w twoim wypadku radę - ELPOX 15 (E-ZFIX) - Klej epoksydowy przewodzący prąd elektryczny, dwuskładnikowy. Klej ten przeznaczony jest do wykonywania połączeń wszędzie tam, gdzie niemożliwe jest stosowanie...
+
+Witam. W elektrycznym wózku widłowym pojawił się błąd nr. 99, nie ma możliwości zmiany prędkości. Czasami pojawia się ostrzeżenie 56. W DTR lista błędów została mocno okrojona do tych najczęściej występujących. 20 - Bateria rozładowana 21 - Niewłaściwa bateria 50 - Aktywny hamulec postojowy (po...
+
+Witam Ostatnio u elektryka wymieniano w mojej Skodzie szczotki w alternatorze. Po jakimś tygodniu zorientowałem się, że nie działa elektryczna regulacja lusterek. Lusterka działały wcześniej bez zarzutu. Wcześnie również wymieniany był akumulator. W związku z powyższym mam pytanie czy możliwe jest,...
+
+Już się ucieszyłem, bo rzeciwiście są blaszki ale zagięte z prowadnicy szczotki (blaszka trochę cienka taka jak od konektorków). Odgiąłem wyjmuję sprężynkę (no nie do końca bo wewnątrz idzie linka połączenia elektrycznego do szczotki) chce wyjąć szczotkę i problem bo nie chce wyjść. Myślałem że wnętrze...
+
+Witam. Dziś mój rozrusznik odmówił posłuszeństwa. Rozebrałem go i okazało się że praktycznie nie ma już szczotek. Gdy chciałem kupić nowe gość w sklepie podał mi miedziane bo niby takie powinny być, a w moim były na bank węglowe. Tyle jeszcze z pozostałych resztek jestem w stanie rozpoznać. I w związku...
+
+Tak jak wyżej napisałem, problemem był silnik, doprowadziłem do porządku i wózek jeździł aż mechanicznie się rozleciał. Słaby kontakt na szczotkach poprawiłem lutując do każdej linkę LGY 4mm i przez nawiercony otwór w nakrętce dociskającej szczotkę do zasilania, innego pomysłu na to nie miałem. Bez tego...
+
+Witam. W silniku podnoszenia chowanych lamp w samochodzie już drugi raz wymieniam szczotki i niestety nie chcą służyć. Na początku dobrałem węglowe z wiertarki 230V i praktycznie od razu je zmieliło aż do końcówek. Potem dobrałem miedziowo-węglowe ze sklepu elektrycznego(nie wiem z jakiego urządzenia)....
+
+W praktyce różnica między takimi silnikami leży w szczotkach. Po zmianie biegunowości silnik taki będzie się kręcił w stronę przeciwną od zalecanej ale szczotki będą pracowały "pod włos" co drastycznie skraca czas życia takiego silnika.
+
+Automatyka Przemysłowa justarius 16 Lut 2006 14:19 Odpowiedzi: 6 Wyświetleń: 3167
+
+Kilka pytań podstawowych. widziałem czy słyszałem??? -Czyli co, jak i czym owi sąsiedzi "zakrecili" "tym prądnico -silnikem" ile (jak długo) się kręcił i ile mocy elektrycznej uzyskali np. ile czajników elektrycznych zagotowało wodę na herbatke?? A moze ile wyprali ciuchów w pralkach lub ile żarówejk...
+
+witam. Gdzie można kupić szczotki węglowe do młotka elektrycznego atlas copco phe 40s. Szczotki mają(właściwie jedna) czujnik, stare są tak zużyte i tylko z szczotkoczymacza mi wychodzi 6mm na 10mm. Nie wiem natomiast jakiej długości powinny być.
+
+Przerwę na komutatorze wirnika łatwo sprawdzić (jeżeli nie masz miernika), bateryjką i żarówką. Jeden przewód z żarówki jest na stałe przyczepiony do baterii, natomiast drugi musi tworzyć obwód zamknięty przez dwie sąsiednie lamelki komutatora. Zarówka powinna na każdej parze lamelek (miedzianych blaszek)...
+
+Komutator to są te blaszki (?) na osi wirnika podłączone do jego uzwojenia do których dotykają szczotki silnika przekazujące napięcie na wirnik. Jeśli będą ustawione nieprawidłowo względem ustawienia magnesów (pod złym kątem) to wirnik się będzie blokował lub w najlepszym razie niechętnie kręcił. Niestety...
+
+Problem pojawił się w zimniejsze dni + postój w wilgotnym miejscu. Na początku potrafił tylko jeździć np do tyłu po kilku popchnięciach do przodu przypominał sobie jak się jeździ o własnych siłach ;) Aktualnie nie chce już współpracować widać że silnik próbuje delikatnie ruszyć, gdy go się pcha z wciśniętym...
+
+Bierzesz szczotkę w łapę, idziesz do sklepu elektrycznego lub elektronicznego, kładziesz na ladę i prosisz o dobranie zamiennika. A jeśli zdarzy się, że nie mają, to bierzesz najbliższy większy wymiar, po czym idziesz do sklepu żelaznego/samochodowego/marketu budowlanego i kupujesz drobny papier ścierny....
+
+[Sprzedam] Szczotki węglowe do pralek automatycznych.
+
+Witam zajmuje się produkcją oraz sprzedażą szczotek węglowych do pralek automatycznych oraz wielu innych różnych sprzętów posiadających silniki elektryczne. Szybki czas realizacji, niskie ceny, polska produkcja z polskich materiałów, szczotki na wymiar! www.okalog.pl dla firm budowlanych lub zajmujących...
+
+AGD Sprzedam/Kupię elektroszczotki 21 Lut 2013 16:45 Odpowiedzi: 0 Wyświetleń: 942
+
+No to dwa uchwyty ma na pewno dwóch poszukam , popatrzę też za szczotkami o większej zawartości miedzi ( nie miedziowane ) Jeżeli satysfakcjonują cię szczoty ze spawarek wirowych / wózków elektrycznych takie aby wykonać sobie szczotki pod wymiar to ci napiszę ale już na PW.
+
+Jak występuje zasilanie na stykach to bardzo możliwe, że połączenie szczotki z gniazdem kostki może mieć przerwę, najlepiej to sprawdzić przejście między tymi punktami. Też jakie szczotki, takie same? W jakim stanie jest komutator? Jeżeli nic nie zdziałasz to Ci radzę taki myk: wymontuj silnik i idź...
+
+Dla jurek1980: jest napisane, że wirnika. Przywarte należy rozumieć jako zwarcie częśći uzwojenia między sobą. Takie zwarcia powstają najczęściej po przegrzaniu silnika (izolacja traci swoje właściwości elektryczne i mechaniczne w czasie wzrostu temperatury). Zakładając, że szczotki wykonane są z odpowiedniego...
+
+Witam Chciałbym się was poradzić jaka firma produkuje najlepsze szczotki węglowe do elektronarzędzi. Chciałem wymieć w mieszadle elektrycznym Dedra 1200w i nie wiem jakiej firmy były by dobre żeby trochę pochodziło a nie jak to wcześniej było z tymi za 10zł jeden dzień na budowie. Mam jeszcze pytanie...
+
+(at)mikul22 Widze ze potrzebujesz pomocy krok po kroku bo nie umiesz Wziąć śrubokręt odkręcić parę śrubek i popatrzeć na szczotki czy się nie starły zużyły itd. Ale potrafiłeś grzebać śrubokrętem w silniku elektryczny jeszcze pod prądem! :idea: Zapędziłeś się :D. Pralkę wyłączam z prądu gdy...
+
+Witam, na szczotkach jest numer 44 i nic więcej , wymiar to ja sobie zdaję sprawę , że można doszlifować . Tylko czy stop z jakiego jest zrobiona ma jakieś znaczenie , bo o tym to nie mam zielonego pojęcia , o elektronice mogę porozmawiać ale z silnikami , jeszcze w dodatku do pojazdów elektrycznych...
+
+Elektryczny silnik pompy wspomagania Renault 19 Rocznik 94 Czy ktoś może z forumowiczów ma jakieś namiary lub informacje na w/w temat ? Otóż jak nadmieniłem wcześniej mam R-19 1.9 TD i ma ona wspomaganie układu kierowniczego napędzaną silniczkiem elektrycznym. I problem jest w tym iż powycierały się...
+
+Samochody Szukam CAMARENA 09 Paź 2004 19:23 Odpowiedzi: 1 Wyświetleń: 2719
+
+Wózek elektryczny E1. Rusza na chwilę, a potem raptownie hamuje.
+
+Witam wszystkich , na wstępie nie wiem czy ten post powinien być tutaj ale to msce wydawało mi się najbardziej odpowiednim a chodzi o sterowanie w/w pojazdu , jest to wózek elektryczny używany przez inwalidę . Pojazd ten nie jest już produkowany w tej wersji i mam taki kłopot - chciałbym pomóc temu koleżce...
+
+Elektro Maszyny i Urządzenia twimpex 11 Lut 2005 12:08 Odpowiedzi: 3 Wyświetleń: 1316
+
+Witam wszystkich. Jestem w trakcie budowy napędu elektrycznego do mojego prototypu. Szukam podpowiedzi w konstrukcji tego napędu. Moje pytania: - Jakiej mocy (kW) powinien być silnik by bez problemu(nie grzał się) mógłby stanowić napęd w moim aucie - oczywiście uwzględniając skrzynię biegów. - Jakie...
+
+Schematy elektryczne wiertarek są podobne , obowiązują pewne zasady. Zasilanie przechodzi przez wyłącznik (obie strony 230V ) do filtra i dalej biegnie do uzwojenia na stojanie skąd jest odebrany na szczotkę wirnika.Osobny przewód biegnie (nie zawsze ) od obudowy stojana do filtra W tym dziale...
+
+tam gdzie jest choc jeden swobodny elektron i wykonuje on ruch po drodze -reprezentuje on prad elektryczny..to jest spec definicja... I ONA JEST TEZ PRAWDZIWA idac dalej - -do robot elektronicznych zaliczam : -- rozrabianie betonu, jego transport i wylewanie.../bo napewno w calej masie ...
+
+Problem z połączeniami w elektrycznej pile łańcuchowej
+
+ten schemat jest do niczego ponieważ jeśli jest to elektryczna piła łańcuchowa (ręczna)to jeden z tych przełączników jest wyłącznikiem głównym a drugi jest sprzężony z hamulcem na sprzęgle i obydwa pracują w szereg tzn. załączenie piły wyłącznikiem głównym nastąpi tylko w przypadku gdy zwolniony jest...
+
+w tym Passacie można podłączyć pod kompa VAG-a i sprawdzić oraz wykasować kody błędów (centralny i elektryczne szyby też) serwis VW lub lepszy elektryk z VAG-iem. Polecam później sprawdzić wiązki przewodów i następnie przełączniki w drzwiach tylnych. Czasami pomaga rozebranie silniczka od szyby i wyczyszczenie...
+
+W czajniku elektrycznym poradziłem sobie w ten sposób, że przewody zgrałem z wyprowadzeniami grzałki zgrzewarką do szczotek.
+
+Witam , ja mam makitę elektryczną 1800 W. mam ją już 5 lat i działa super , odkupiłem ją z poprzedniej firmy gdzie pracowałem jako cieśla-dekarz i pracowałem tą piłą też kilka lat na dachach . Miała dwa razy wymieniane szczotki i raz łożyska , oraz , co oczywiste łańcuchy. Bardzo udana konstrukcja i...
+
+hm, zasadniczo jak tam widziałem tylko zwykłą pompę elektryczną która dostawała napięcie z przekaźnika wtedy, jak silnik pracował. I 90% usterek w tym to zawieszone szczotki.
+
+Witam. Znalazłem w mojej piwnicy coś takiego jak na zdjęciach chciałem to sprzedać ale najpierw musze sie dowiedzieć co to jest i ile jest warte. Podobno było to zamontowane w jakiejś szafie elektrycznej w zakładzie. w wyglądu to silnik z płynna regulacją obrotów. podłączyłem pod 230v i działa. Jednym...
+
+Witam. Posiadam wciągarkę elektryczna (12V) na pomocy drogowej którą nie dawo zakupiłem. Gdy ją kupiłem był tylko jeden bieg. Potrzebuję pomocy w uruchomieniu jej. Z silnika wychodzą 3 wyprowdzenia A- doprowadzenie do 2 szczotek, 2 następne podłączone są do masy F1- jest to początek uzwojeń stojana F2...
+
+Elektro Maszyny i Urządzenia Hansol2_pl 14 Lip 2010 23:21 Odpowiedzi: 2 Wyświetleń: 5432
+
+Panowie, w mym skuterze elektrycznym Rehapola Mercurius ponownie spaliły mi się szczotki węglowe, nie chcę ponownie zamawiać u producenta bo są 5 razy droższe, a jedynie co o nich wiem to to, iż mają oznaczenie 43. Jak po nr katalogowym dowiedzieć się o wymiary? Czy powodem palenia się szczotek może...
+
+Witam! Zakupiłem na pewnym serwisie aukcyjnym na A.. elektryczną szczotkę do zębów (na prezent). Jakież było moje zdziwienie, kiedy okazało się, że wtyczka od ładowarki (wyglądająca jak nasze) z trudem mieści się w gniazdku, a o wyjęciu jej z gniazdka nie ma już mowy - zaklinowała się. Gniazdko...
+
+AGD Użytkowy cyclosarin 09 Gru 2010 23:05 Odpowiedzi: 2 Wyświetleń: 546
+
+Dobra rada : przed kładzeniem pralki na jakikolwiek bok wyjmij szufladę pojemnika proszku, uchroni to elektronikę i inne elementy elektryczne przed zalaniem wodą .
+
+Witam ! Mam problem otóż spalił mi się elektryczny rozrusznik w motorowerze Zumico GR200 szukałem po internecie ale nic nie znalazłem dlatego proszę was o pomoc w znalezieniu takiego rozrusznika lub chociaż podobnego, który pasował by do w/w motoroweru. Nie orientuje się też czy przy zakupie takiego...
+
+Mam mały problem. Wiertarka elektrycznie już działa, ale mam problem ze złożeniem udaru. Nie chce mi wskoczyć ta zapadka gdzie zmienia się wiercenie i udar. Próbuje w różnych pozycjach i nie idzie. Teraz mam tak jakby przełącznik przestawiony o jedną pozycję. Tzn na zwykłe wiercenie w ogóle nie umiem...
+
+Jestem szczęśliwym posiadaczem Makity UC 3530A od 8 lat . Wykorzystuję ją do cięcia drewna na opał około 15 m3 rocznie . Faktem jest że wymieniałem pompę oleju. Są to po prostu dwa plastykowe koła zębate które się wycierają . Nie stosuję oleju makita lecz zwykły Pilarol ,jest trochę gęstszy . Po...
+
+Witam, jestem użytkownikiem elektrycznego wózka inwalidzkiego (instrukcja vermeiren.pl /instrukcje /IO_SQUOD.pdf) Od pewnego czasu przy włączaniu sterownika czasami świeciła się ikonka sygnalizująca usterkę a wózek nie jechał. Wyłączałam sterownik, włączałam i było ok. Kilka dni temu, w bardzo...
+
+Podaliście złą informację dotyczącą czasu szczotkowania na jednym ładowaniu. Szczotka wytrzymuje 3 tygodnie na jednym ładowaniu (przy założeniu mycia zębów 2x po 2 minuty dziennie) czyli 21x2x2= 84min. [url=]źródło
+
+Tak nie sprawdzisz regulatora. Na pewno są jakieś wartości przejścia na zakresie diody, ale to nic nie powie.regulator sprawdza się w pełnym układzie elektrycznym- alternator, wzbudzenie i pomiary.
+
+Samochody Elektryka i elektronika hudy5 27 Lis 2013 23:38 Odpowiedzi: 23 Wyświetleń: 2796
+
+Witam wszystkich elektryków i nie tylko .... Mianowicie dostałem do zrobienia Mietka w140. 3 litry Benz/gaz , usterka lub jak kto woli usterki są następujące: 1: Nie działa central zamek znalazłem przyczynne wytarte szczotki na silniku pompy ciśnienia+uszkodzony ele.zaworek w wyżej wymienionej pompce.2:...
+
+Witam! Chciałbym wam zaprezentować silnik elektryczny szczotkowy zrobiony przeze mnie: Na powyższym zdjęciu widzicie prototyp, ma on większy komutator, przez co tarcie na nim było znacznie większe, poniżej udoskonalona wersja Konstrukcja została wykonana do celów pokazowych, m.in....
+
+... w narzędziu miałeś ( masz) uszkodzony nie tylko wirnik ale i stojan . jest to powodem twojego niepowodzenia w naprawie. Masz do wyboru: 1. włożyć stojan i wirnik z uszkodzonej ale ze sprawnym silnikiem , 2. przewinąć część elektryczną narzędzia , ale już na 220V, 3. nie naprawiać samemu ale...
+
+Bieżnia elektryczna KETTLER startuje, po czym od razu się zatrzymuje ERR 3
+
+Witajcie ! Mam problem z moją bieżnią elektryczną kettlera, mianowicie bieżnia uruchomia się normalnie, jednak po 2 sekundach silnik zatrzymuje się i wyskakuje błąd ERR 3. W trakcie tych dwóch sekund silnik rozpędza się do dość dużej prędkości, co to może być? Silnik jest sprawny, szczotki również,...
+
+Początkujący Elektronicy bestler 22 Lut 2016 21:38 Odpowiedzi: 1 Wyświetleń: 1260
+
+Na deszczu to ja raczej nie zamierzam jeździć a na pewno nie teraz gdy mam niezakryte części(na czas postoju mam folię do przykrycia akumulatorów i worki do przykrycia silnika). Patrząc na forum gdzie zajmują się elektrycznymi rowerami to tam po prostu przewiercali obudowę od strony komutatora (trochę...
+
+Tak, oczywiście tak samo jak nie mamy pewności czy to w ogóle jest wiertarka, a nie latający talerz, tak samo może nie powinna być zasilana prądem, tylko energią kosmiczną - bo autor podał za mało danych. Naprawiałeś kiedykolwiek jakąkolwiek wiertarkę? W tytule jest wyraźnie napisane że jest to wiertarka...
+
+Elektro Początkujący niewolno2 23 Sty 2017 23:07 Odpowiedzi: 5 Wyświetleń: 1008
+
+W pierwszej prawdopodobnie skończył się wirnik (ma zwarcie). Możesz jeszcze spróbować sprawdzić komutator. Czasem wpada coś między miedziane lamelki. Jeśli wirnik jest spory, to się bierze brzeszczot, obszlifowuje pofalowane brzegi na jego początku, tak aby uzyskać w miarę płaski, zębaty nóż. Tym nożykiem...
+
+Zacznij od kontroli szczotek w silniku. Nie jest to skomplikowane. A nowe szczotki w granicach 100 zł.
+
+Witam. Pozostaje tacho, wiązka elektryczna silnika i moduł.
+
+Samochody Elektryka i elektronika Darko77 26 Wrz 2003 17:31 Odpowiedzi: 7 Wyświetleń: 2953
+
+Dzięki za schemacik. Przejrzałem, sprawdziłem przełącznik i ... jest on O.K. Sprawdzony miernikiem. Mam teraz podejrzenia na silnik (np szczotki, lub przewody doprowadzające). Czy ktoś wie, gdzie on się podziewa???? Tzn gdzie jest zamocowany. Jestem zielony a nie chcę rozbierać pół samochodu.
+
+Witam. Kolega wyraźnie wspomniał,że chodzi o silniczek od dmuchawy od żuka.Te silniczki mają szczotki umieszczone dokładnie na osi,naprzeciwko siebie.Przebiegunowanie nie ma wpływu na pracę i trwałosć silnika.Silniczki posiadają magnes trwały, wiec zmianę kierunków obrotów można osiągnąć poprzez zmianę...
+
+Elektro Maszyny i Urządzenia Mieczysław 21 Lip 2004 06:55 Odpowiedzi: 9 Wyświetleń: 2261
+
+Ja tam nie jestem przekonany, co do możliwości pracy prądnicy jako silnika. Chyba styki na komutatorze są nieco inaczej rozmieszczone (przesunięte) W silniku wydaje mi się, że styki załączane są, zanim bieguny wirnika pokryją się ze stojanem, żeby to wogóle dało się obracać (czyli po załączeniu jest...
+
+NIE DZIAŁA OPUSZCZANIE ELEKTRYCZNE 1SZYBY-PASSAT 92r.
+
+BARDZO WSZYSTKIM DZIĘKUJĘ ZA PORADY .ZNALAZŁEM PRZYCZYNĘ -ZAWIESIŁY SIĘ SZCZOTKI W SILNICZKU.TROCHĘ GO POPUKAŁEM NO I WSZYSTKO OK.DOWIEDZIAŁEM SIĘ TEŻ ,ŻE TRZEBA PRZYNAJMNIEJ RAZ W TYGODNIU RAZ JE URUCHOMIĆ BO INACZEJ MOŻE DOJŚĆ DO TAKIEJ SYTUACJI.JESZCZE RAZ WSZYSTKIM DZIĘKUJĘ I POZDRAWIAM.
+
+Samochody Elektryka i elektronika mario1965 05 Gru 2004 13:24 Odpowiedzi: 8 Wyświetleń: 1376
+
+komutator część maszyny elektr., pełniąca rolę prostownika mechanicznego (prąd stały) a. przetwornika częstotliwości (prąd zmienny). lamelki - to miejsce gdzie szczotki stykają się z silnikiem takie (jak na babskie oko) mosiężne prostokąciki
+
+witam W silniku poleciały szczotki więc je wymieniłem. i niby wszstko działa ale nie do końca bo szyber dach podnosi się do góry i opuszcza się ale nie chce się odsówać do tyłu poprostu jak by miał blokade czy ktoś wie jak ustawić to kułko z micro switchami??
+
+Samochody Elektryka i elektronika leszek.b 24 Lip 2006 16:52 Odpowiedzi: 9 Wyświetleń: 2160
+
+Instagram to darmowa aplikacja do zdjęć na urządzenia z systemem Android. Umożliwia ona fotografowanie, nakładanie na zdjęcia filtrów, kręcenie krótkich filmów i dzielenie się efektami naszej twórczości ze znajomymi. Zyskała niezwykła popularność w wersji na iPhone, a potem podbiła serca użytkowników Androida!
+
+Nie tylko filtry, ale przede wszystkim społeczność
+
+Aplikacja Instagram zyskała sporą popularność dzięki zręcznemu połączeniu kilku odrębnych elementów, które zapakowano w zgrabny interfejs. Istnieje sporo aplikacji służących do fotografowania i wiele z nich umożliwia nakładanie na zdjęcia filtrów, tak aby wyglądały jakby były zrobione jakimś starym aparatem.
+
+Jednak Instagram położył nacisk nie na samo samo robienie fotek, ale na dzielenie się nimi. Ktoś może polubić Twoje zdjęcie i je skomentować, a Ty także możesz przeglądać fotografie innych. Zamiast obrazków, można też dodawać krótkie filmy wideo.
+
+Na początku w Instagram dodajemy znajomych, którzy korzystają z tej aplikacji. Możemy ich wyłuskać z kontaktów książki adresowej lub z Facebooka. Dzięki temu, ich najnowsze zdjęcia będziemy widzieć po otwarciu aplikacji.
+
+Następnie możemy dodać własne zdjęcie, zaaplikować mu odpowiedni filtr i opublikować nie tylko w Instagram, ale również jednocześnie w wielu serwisach zewnętrznych: Flickr, Facebook lub Tumblr. Dzięki temu aplikacja jest przydatna, nawet jeśli nasi znajomi z niej nie korzystają. Mogą wtedy komentować nasze zdjęcia w serwisie Facebook.
+
+Instagram trzeba po prostu wypróbować i złapać bakcyla. Miłośnicy beztroskiego fotografowania wciągną się w kilka chwil. Pobierz Instagram na Android i przekonaj się samodzielnie!. Więcej informacji o aplikacji znajdziesz w naszym artykule Wszystko o Instagram.
+
+Najczęściej pobierane Udostępnianie zdjęć i wideo na android
+
+Uwielbiam bieganie w innych miastach – szczególnie w tych, nazwijmy to turystycznych. W takich gdzie to piękne zdjęcia popularnych TOP 10 można zobaczyć tylko w albumach, albo na widokówkach. W ciągu dnia pierwsze co zobaczymy to tłumy turystów… Wciąż mam w głowie poranne bieganie w Rzymie, kiedy dobiegłem pod fontannę Di Trevi i nie było tam żywej duszy. Byłem tylko Ja i woda… coś niesamowitego. Teraz nadeszła chwila na podobne zwiedzenie Paryża.
+
+Trzy dni, a w nogach 100 (słownie: STO kilometrów). Można? Można jak się chce :) Nie wszystkie wybiegane, ale ten weekend na pewno należał do aktywnych. Głównym celem wyjazdu był maraton, ale jak wiecie już w momencie kiedy kupowałem bilety wiedziałem, że tego maratonu nie ukończę.
+
+Do Paryżewa polecieliśmy w sobotę z samego rana. Jak zwykle włączył mi się wyjazdowy nieśmiertelnik. Budzik nastawiony na 3:30, aczkolwiek spać nie mogłem już od 2giej. Zawsze tak mam przed wyjazdami – jakoś podświadomie ekscytuje się tym co będzie się działo. Energia trzyma mnie zawsze do momentu kiedy wsiadam do taksówki jadącej na lotnisko w drodze powrotnej.
+
+W Paryżu, a właściwie w pod paryskim Beauvais wylądowaliśmy kilkanaście minut przed dziewiątą rano. Tu czekał na nas Pan Norbert, którego serdecznie polecam, jeśli kiedyś będziecie przylatywać na to lotnisko. Za 15-20 EUR, w zależności od liczby osób zawiezie Was prosto z lotniska pod drzwi miejsca docelowego. I to wszystko w niecałą godzinę. Dla porównania, autobusy, które kursują z lotniska kosztują 17 EUR, a do tego jadą dwie godziny. Później musicie wziąć jeszcze metro, które dowiezie Was do hotelu.
+
+Zaraz po zameldowaniu się w naszym tymczasowym domu poszedłem biegać. Maratończycy mieli chwilę na drzemkę i regenerację przed biegiem. Ja już byłem w swoim żywiole i zwiedzałem miasto. Wyznaczyłem sobie cel – Wieża Eiffela – była jakieś 6-7 kilometrów od domu, więc idealnie wpasowywała się w zaplanowany trening – 12 kilometrów i w 2 kilometrowa zabawa biegowa. Komórka z mapą w kieszeń i ruszyliśmy z Jackiem. Po drodze odbiliśmy żeby zobaczyć wpierw Łuk Triumfalny – w końcu wszystkie drogi do niego prowadzą. Przebieżka wzdłuż Pól Elizejskich po których przechadzały tysiące turystów, przypominała trochę ostatnie bieganie z Arkiem po La Rambli w Barcelonie.
+
+Po powrocie udaliśmy się na EXPO odebrać pakiety i na pierwszy porządny posiłek. Nie chcieliśmy tego dnia za dużo łazić – w końcu za kilka godzin, niektórzy z nas mieli zmierzyć się z królewskim dystansem. Wieczorem udało nam się spotkać większą ekipą na makaronowe carboloading i grzecznie poszliśmy spać… Tak tak – nic innego nie robiliśmy, tylko jedliśmy :)
+
+Niedziela to dzień pod znakiem maratonu. Maratonu, który udalo mi się zobaczyć zarówno jako biegacz, jak i kibic (klik klik). To niesamowite uczucie móc być po dwóch stronach i obserwować tak dużą imprezę z różnej perspektywy.
+
+Cały dzień latania po mieście i każdy już umierał z głodu. Popołudniu poszliśmy całą grupą na podobno najlepsze mule na świecie. Knajpka Les Leon de Bruxeles zlokalizowana na Polach Elizejskich przyjęła nas bez problemu. Mule były niezłe, ale nie powiedziałbym, żeby to była ich najlepsza wersja jaką jadłem. No ale nie będę wybrzydzać.
+
+Zebraliśmy tyłki i poszliśmy na umówionego szampana i winko pod wieżę Eiffela. Po drodze zrobiłem deal życia. Za 4 euro kupiłem butelkę czerwonego wina – nawet było niezłe – a do tego korkociąg za 11 EUR. Niezłe nie :) ???
+
+Tym razem w łóżkach nie wylądowaliśmy tak wcześnie, ale miałem swój mały plan na dzień następny. 5 godzin spania to dla mnie całkowicie za mało, ale nie mogłem nie wykorzystać tego, żeby móc być w mieście i mieć je całkowicie dla siebie. Wschód słońca o tej porze roku w Paryżu jest kilkanaście minut po siódmej rano. Wiedziałem, że muszę wybiec około 6:40, żeby dobiec na szczyt na którym znajduje się katedra Sacre Care. Budzik na szóstą, ale jeszcze na chwilę przysnąłem. Wszystko zgodnie z planem i na górze byłem jeszcze przed fotografami, którzy wdrapali się na górę, żeby uwiecznić wschód słońca. Podobnie, kiedy byłem w Londynie i oglądałem budzące się do życia miasto przy Tower Bridge.
+
+Na ten dzień treneiro zaserwował mi 12 kilometrową przebieżkę, więc postanowiłem pobiec do katedry Notre Dame. Niesamowite jest to, że kiedy jesteś w tych wszystkich turystycznych atrakcjach o poranku nie ma tam nikogo. To zupełnie inny widok, który widzisz już dwie godzin później, kiedy miasto jest pełne turystów. Biegnąc do katedry zahaczyłem o centrum Pompidou a w drodze powrotnej po raz pierwszy korzystałem z mega opcji w zegarku – powrót do domu. Nie musiałem się zatrzymywać, patrzeć na mapę gdzie biec … Po prostu biegłem przed siebie, w kierunku, który wskazywała strzałka. No mega!
+
+Resztę dnia już wspólnie przechadzaliśmy się po Paryżu “zaliczając” wszystkie najważniejsze miejsca – Wieża Montparnasse z pięknym widokiem na Eiffela, ponownie katedra, most zakochanych, Luwr. Jak japońscy turyści – a to wszystko na nogach, z jak najrzadszym korzystaniem z metra. Miasto w swoich wąskich uliczkach wygląda zupełnie inaczej jak tylko przemieszczając się komunikacją miejską.
+
+Najlepszy punkt dnia to nasz piknik w ogrodach Tuileries koło Luwru. W sklepie ogarnęliśmy bagietki, śmierdzące sery, długo dojrzewające szynki i winko. Tym razem korkociąg już miałem więc jednak inwestycja była niezła :) Siedzieliśmy tak ze dwie godzinki na słońcu delektując się chwilą. Dla takich chwil warto żyć :)
+
+Wieczorem jeszcze raz wdrapaliśmy się na szczyt Sacre Coeur żeby w jednej z lokalnych knajpek zjeść kolację. Spacerem wróciliśmy do hotelu, żeby jeszcze przed świtem wyruszyć w drogę powrotną.
+
+Sam Paryż mnie nie zachwyca. Ma kilka miejsc, które warto zobaczyć, ale jakoś nie czuję klimatu tego miasta. To nie jest to co Barcelona, czy Nowy Jork, w których czuje się jak w domu. To dla mnie miasto w stylu tych do odhaczenia – byłem, zobaczyłem starczy. Nie wiem czemu wszyscy tak mówią, że to miasto miłości – te wszystkie oświadczyny etc. Dla mnie to całkowicie nie miejsce na takie akcje :) Raz w życiu warto pojechać pozwiedzać … a kilka razy, żeby pobiegać, bo biegając odkrywa się zupełnie inne miasto. To w którym byłem sam mi się podobało – kiedy przebiegałem obok otwierających się kawiarenek, czy klimatycznych małych uliczek Montmartre. Dajcie znać w komentarzach, jakie są Wasze odczucia, jeśli już tam byliście.
+
+Samolot (Wizzair) – 120 PLN – rezerwacja w grudniu
+
+Trzy noce w 2 osobowym pokoju Ibis Budget – 140 EUR
+
+Transfer Lotnisko – Miasto – 15 EUR – Norbert Kwiatkowski – +33 689 63 36 44
+
+Wino – butelka 4 EUR – w Paryżu legalnie można siedzieć w Parkach z Winem i Szampanem
+
+no i jakaś polaryzacja na spółkach obok tych po +10 jest też kilka po -20
+
+Bez pozycji na weekend, wywaliłem nawet wszystkie L na KGHM bo miedź chyba się mocno zwali, ale tysiaczek ekstra przytulony. Czas opracowania planu - kilka minut na sprawdzenie fibo i minuta na ustawienie zlecenia, minuta na zamknięcie. Po co siedzieć godzinami gapiąc się bezproduktywnie w monitor?
+
+Gapiąc się w monitor miałbym już w tym czasie ze 4 razy L i 4 razy S, w plecy ze dwa koła i natrzaskane prowizji od choooya
+
+A tak grając z doskoku, to w jeden dzień przytuliłem kasę za kilka montaży kociołków w normalnej robocie, i przytuliłem kilka koła na giełdzie (a jeszcze piękny trejd z PZU (dzisiaj +3,7%, a brałem jak było na minusie ) też ponad tysiak, ale to zostało więc nie chwalę zysków przed zamknięciem pozycji).
+
+No to jak Osły, napisałem chyba w miarę szybko i on-line, z L-kami na FW20 też pisałem w punkt kilka dni temu jak brałem, wierzysz teraz że Indianie traktują giełdę jak dojną krowę, a nie jak skarbonkę bez dna?
+
+Oprócz tych 4 górnych pięter to prawie wszystko co wiem o dax.
+
+to teraz jeszcze napisz tak samo gdy bedziesz otwierał i ....
+
+(ewentualnie - jak dax bedzie w gorze - a chyba bedzie )
+
+mam 300 S na DAX po cenie 12955 a więc jak spadnie na tą cenę to mam 0 a każdy punkt niżej to 310 zł zysq
+
+serio kolega gra już całkiem jak miszaty i każdy baran czy to eliotem czy nie. nawet jeśli teraz się uda wykaraskać i zarobić to statystycznie takie pogrywanie nie ma żadnej wartości, to już przy takim depie korzystniej uśredniać powoli dalej (choćby do 14400) niż dopierdalać drugie tyle pozycji.
+
+tyle lat gracie i nawet podstaw zarządzania ryzykiem nie macie opanowanych
+
+jeżeli nie ogarniacie tematu to po prostu uwierzcie mi na słowo: stratne pozycje się redukuje, a nie powiększa
+
+to nie są moje subiektywne opinie, a trejderskie abecadło: coś co musicie bezwzględnie przestrzegać, albo pójdziecie na przemiał
+
+nie myślcie i nie analizujcie, tylko skorzystajcie z mojej rady
+
+a wg mnie można uśredniać (i zyskowne i stratne) jeśli jest to zgodne z mm metody, tj np
+
+1) gdy pozycja jest brana na raty ustalone wcześniej np na 3raty/części (np jak się bierze na szybkim stochu, abo na zakresie),
+
+2) gdy bierze się po odchyleniu np po 1,2 rozkładu normalnego danego interwału instrumentu.
+
+Przecież specjalnie wyciągnąłęm koma i napisałem z rana na UFO że ładuję KGHM do wora, FW20 też pisałem od 3 czy 4 dni że wziąłem na fix... Czego chcesz jeszcze?
+
+Sprawdź sobie poranne UFO. I po ile zamknąłem FW, pisałem od razu po zamknięciu, to było to wybicie na 2502, ja po 2499 wywaliłem.
+
+DAX jest jest 250 pkt wyżej niż moja cena... a tyle to on pierdolnie jeszcze dziś na dół
+
+Anette dziś ma jakąś niespodziankę dla mnie...była w sklepie z bielizną
+
+nie o to chodzi olaf, dla mnie osobiście już to nie ma znaczenia czy zarobisz i co napiszesz w temacie handlu na giełdzie (inne tematy oczywiście tak ), bo psie gówno pokazałeś lamusie, uśrednianie od 0,01 lota do 1000lotów przez 1000 pkt to miszaty już nam pokazywał.
+
+a ja Wam mówię, że w budżecie nie jest tak różowo jak to przedstawia Morawiecki
+
+i kolejny który uważa, że system działa prawidłowo czyli mamy transfer od 99% do 1% kasty uprzywilejowanej
+
+"Niezwykle istotny jest fakt, że Edwards nie zaczął „mądrzyć się” po wybuchu kryzysu, ale zwracał uwagę na nadchodzące problemy już w 2005 roku. Zganił wówczas Alana Greenspana, twierdząc, że ten najpierw napędził aktywność gospodarczą w USA w oparciu o „bańkę internetową”, a następnie przyczynił się do napompowania bańki w nieruchomościach. W tym samym czasie Edwards przyrównał amerykańską gospodarkę do schematu Ponziego, który w końcu musi się zawalić.
+
+Warto podkreślić, że dziś podobnych porównań również nie brakuje. Ostatecznie cała układanka (od rynków finansowych zaczynając) zawali się, gdy tylko banki centralne odetną dopływ środków.
+
+To właśnie banki centralne, zdaniem Edwardsa, są głównym źródłem problemów. Pierwszym potwierdzeniem była sytuacja w Japonii w latach 90-tych. Kolejnym bańka spekulacyjna z 2000 roku, kiedy realne stopy procentowe były negatywne. Następnie banki centralne znacząco przyczyniły się do kryzysu z 2008 roku."
+
+"Otóż zdaniem Edwardsa utrzymywanie niskich stóp procentowych sprawiło, że zwykli obywatele mieli złudzenie bogactwa. Wszyscy dostrzegali zwiększone zdolności nabywcze (pod dom, którego cena rosła zaciągano drugą, a następnie trzecią hipotekę), natomiast mało kto zastanawiał się czy jego realny dochód wzrasta."
+
+"Po kryzysie z 2008 roku gniew społeczeństwa został skierowany w stronę banków komercyjnych, by odciągnąć uwagę od prawdziwych winowajców, czyli Rezerwy Federalnej."
+
+Skoro już wspomnieliśmy o rynkach finansowych to warto dodać, że decyzje BC obecnie uderzają w indywidualnych inwestorów (znowu mówimy w dużej mierze o klasie średniej). Otóż skup aktywów prowadzony przez BC obniżył zmienność na rynkach. W efekcie, jak wyliczył Rick Rieder z BlackRock’s, zwykły inwestor chcąc osiągnąć zwrot podobny do tego z 1995 roku, musi podejmować 4 razy większe ryzyko!
+
+Jednocześnie mali inwestorzy muszą rywalizować z bankami inwestycyjnymi, które najpierw zostały wyratowane z pieniędzy podatników, a teraz, dysponując wyjątkowo rozległym dostępem do informacji, łatwo zgarniają zyski.
+
+z giełdą jest jak z gównem...by można było się wysrać - trzeba najpierw coś zjeść i popić
+
+cała egzystencja wszelkiego bytu to życie...a życie to jedzenie i sranie
+
+już opisywłaem przypadek z zeszłego roku jak podobnie zagrałem na Nikkei i się opłaciło...miałem drabisnkę ustawioną 1000 pkt w dół ale zacząłem zbierać także w górę...ruch up był ok 450 pkt i też kisiłem stratne pozycje aż w końu przyszło upragniona zjebak z 17200 na 14600 i olaf zarobił i też się śmiali barany i łosły...tylko że jak zainkasowałem 210 tyś zł to już im mina zrzędła - jedynie co gadali to że to był fuks a sama inwestycja nie miała sesnu
+
+a co qrwa ma sens... przecież każdy z nas wie że to rośnie i spada, rośnie i spada
+
+jak będzie moment zbierania L to wam napiszę...obecnie jest okres siania ziarna...żniwa już nie długo...
+
+kolejna sprawa...policzcie sobie ile macie z tego pierdolenia się z żydem każdego dnia i nie wiecie czy urośnie czy spadnie...taka prawda
+
+a ja spokojnie sobie zbieram na poziomie z którego i tak spadnie....kwestia fazy
+
+ja zbieram na szczytach, każdy szczyt także się kończy i trzeba zniego zejść, odpocząć i pomyśleć o kolejnym szczycie...natura
+
+banki są bezkarne jak by to tak naprawę jakiś strategiczny sektor gospodarki był
+
+w oko , uch , dupę itd , a jak leszcz sobie wszystko pouszczelnia to za nogę złapią i będą się bujać
+
+"(...) Komisja Europejska kwestionuje projekty budżetów na 2018 r. Francji, Włoch, Portugalii i Belgii, wskazując, że są zagrożone one znacznym odstępstwem od wyznaczonych dla tych krajów celów i reguł unijnych - poinformowała w piątek Komisja Europejska. (..)"
+
+ten Holenderski pedał będzie miał roboty aż do śmierci
+
+eee tam gadasz...przecież na pewno coś się znajdzie nie tak w Polsce to naprawiania...za chwilę znów będą bronić sądów
+
+na moim laptoku go nie używałem a i tak się spierdolił
+
+ciekawe czy JKM dożyje czasów gdy zgodnie z Jego wizją UE już nie będzie istniała?
+
+właściwie jakby się temu przyjżeć to UE istnieej teoretycznie...bo każdy i tak robi swoje interesy i każdy w gruncie rzeczy ma w dupie wpsólną politykę..ona naet nie istnieje jak na to spojrzeć
+
+rząd Katalonii zwolniony, parlament rozwiązany wybory zaplanowane na 21 grudnia. Teraz będzie chwila prawdy dla Katalonii i Hiszpanii: czy Katalończycy zdołają obronić niepodległość? Czy Hiszpania zdoła utrzymać jedność? Najbliższe 48 godzin może być kluczowe. Katalończycy ostatni raz ogłaszali niepodległość w 1934. Wtedy do akcji weszło wojsko i po 12 godzinach było "po ptokach". Zginęło 46 osób.
+
+Uśredniać zyskowne zawsze można bo to żaden problem jak trejdy idą w dobrym kierunku.
+
+Wedle powyższych parę razy próbowałem zbankrutować Demo i nie dałem rady.
+
+Cześć , jestem w trakcie budowy migomatu . Na razie pospawałem stelaż obudowy i myślę nad głównym transformatorem. Wiem że musi on posiadać sztywną charakterystykę , a mam możliwość kupna źródła prądowego BSI 160.
+
+I tu pytanie czy ktoś wie jakie parametry posiada transformator zamontowany w nim, ponieważ nic nie znalazłem na ten temat oraz czy znajduje się tam też dławik, napisałem do ESAB-OZAS i jedyne czego się dowiedziałem to to że było produkowane w latach 70-80, nic więcej nie wiadomo .
+
+Witam. Były produkowane przez OZAS półautomaty spawalnicze pod nazwą MINIMAG-160. Były przeznaczone do spawania blach cienkich o grubości 0,6 do 3 mm drutem elektrodowym o średnicy 0,8 i 1,2 mm. Posiadały transformator o płaskiej charakterystyce zewnętrznej, prostownik diodowy oraz dławik. Transformator zasilany był napięciem 3× 380V, moc maksymalna 5,8 kVA. Napięcie spawania 16 do 22V i prąd 30 do 160A.
+
+Z tego co ja widzę na zdjęciach to to przez konstrukcje transformatora EI nie może być on 3 fazowy :?.
+
+Kurcze , całość wydawała mi się duża jak szafka , wygląda jak źródło prądowe.
+
+Allegro... niby ze spawarki wirowej 500A, zastanawiam się czy z tego bym nie wykombinował , odwijając jedną z kolumn od razu miałbym płaskownik na dławik .
+
+witam zastanawiam się nad budową miga do użytku okazjonalnego. czy ktoś t jeszcze robi ?? pytanie czy się to opłaca czy może lepiej kupić coś rozsądn... (6)
+
+Witam. Posiadam stara spawarkę transformatorową (bardzo dużą i ciężką). Mam pytanie, czy warto robić z niego migomat, czy nie będzie prądożerny? Ma on... (8)
+
+Raper znany jest ze swojego uwielbienia dla marihuany. Jednak na tym koncercie musiał się powstrzymać. Dlaczego? O tym w najnowszym przeglądzie informacji ze świata celebrytów. Powiemy również o aktorze, który zdobył milion lajków oraz o jednej z najbardziej wyczekiwanych premier na West Endzie.
+
+Dawno temu w odległej galaktyce, kiedy byłem jeszcze biegowym pampersem (1,5 roku stażu) a w blogu pokładałem nadzieję, że będzie mnie ktoś czytał [od razu dementuję, to nie jest marudzenie - fakt, że czyta mnie grupka znajomych, to najlepsze co mogło mi się zdarzyć! bez ambicji zostania biegowym blogerem roku pisze się o wiele łatwiej, robię to głównie dla siebie, aby w czasach kiedy pamięć będzie szwankowała dać wnuczkom linka do relacji z Łemkowyny ;) ] ... no więc dawno temu zrobiłem wieloetapowe podsumowanie roku. Swoją drogą skończyło się ono kłótnią w domu, że zamiast świętować Sylwestra zabieram się za podsumowania :)
+
+W telewizji we Wzrockowej Liście Przebojów Marka Niedźwieckiego chyba co tydzień pojawiał się dziwny człowiek leżący na łóżku oplecionym w pajęczyny i śpiewający kołysankę. A kilka tygodni pózniej na LP3 zadebiutował Love Song.
+
+- Pani nie powinna chodzić do dietetyka. Pani powinna udać się do psychologa! - takie zdanie usłyszała jedna z moich znajomych, kiedy jeden z najlepszych dietetyków w trójmieście szukał wytłumaczenia na porażkę swojej pracy.
+
+Rozpoczynam ten wpis niczym Strasburger Familiadę - dobrym żartem :) Sam śmiałem się jak to usłyszałem, ale po chwili nadeszła refleksja. Nawet po kilkunastu latach od sukcesów Adama Małysza pamiętam, że nie tylko bułka z bananem dała mu miejsce na panteonie sław polskiego sportu. Za jego plecami stali Blechacz i Żołądź - czyli psycholog i fizjolog. A bez prawidłowego "ułożenia głowy" trudno by było o sukcesy.
+
+Dlatego nie lubię odpuszczać Parkruna. Między innymi dlatego, że odpuszczanie wchodzi w krew ;)
+
+To nie jest blog stricte biegowy. To blog biegowo-muzyczny. Gdyby nie muzyka, która ciągnęła mnie do wyjścia na ścieżkę - pewnie nie biegałbym. Gdyby nie bieganie - pewnie nie miałbym czasu na słuchanie muzyki w takich objętościach jakie daje mi samotne przemierzanie dystansu w słuchawkach na uszach.
+
+Miałem szczęście w swoim życiu być uczestnikiem kilku koncertów, które przetoczyły się po mnie jak emocjonalny walec i zrobiły mi akupunkturę każdej części mojego ciała. Do dzisiaj wyjmuję jeszcze igły tamtych wspomnień. Chciałbym opisać je w krótkim cyklu pt. "koncerty mojego życia". Kiedyś wyprawa na koncert doświadczała mnie emocjonalnie tak samo mocno jak dziś wyprawa na Łemkowynę czy Sudecką Setkę. To była podróż i eskalacja emocji. Kiedyś wyłącznie tych siedzących w głowie, dziś także tych fizycznych. Tak naprawdę wyprawa na koncert i bieg ultra to przeżycia bardzo do siebie podobne...
+
+- Kamil jak Ci się dziś podobało na parkunie? - zapytałem
+
+Patrzę na wyniki, Kamil na metę przybiegł 14-ty w czasie 21:31... Hmmm jakby nie patrzeć to jego najlepszy czas ever w parkrunie. I najlepszy ever w oficjalnym biegu na 5 km...
+
+- Kamil jakie to wrażenie zostać bohaterem dnia? - zapytałem przed sekundą?
+
+Na dzisiejszym parkrunie było dokładnie tak jak powinno być: rodziny na starcie, młodzi wolontariusze, urodziny Franka (wszystkiego najlepszego!), żelki i czekoladki na mecie, wyniki na serwerze zanim zdążyłem pomyśleć aby ich poszukać.
+
+Ja z Kreską obchodziliśmy "dzień pokemona". Spokojnie i na luzie zrobiliśmy 33 minuty w stylowych czapkach.
+
+- Tobie bardziej pasowałaby czapka Snorlaxa - powiedział bohater dnia.
+
+Notatka z tego parkruna jest dla mnie wyjątkowa. Od kilku dni cała moja energia fizyczno-psychiczno-kulinarna zaangażowana była w organizację wydarzenia, które miało miejsce dziś w mojej rodzinie - mówiąc wprost: chrzest. Bieganie parkruna o 9:00 wiedząc, że o 11:00 mam być w kościele, a następnie być gospodarzem imprezy na ponad 20 osób... można nazwać lekkomyślnym zamiarem :)
+
+- "Sam jesteś?" - zapytałem rozglądając się za Hanią
+
+- "Hania pobiegła przodem, a ja musiałem cofnąć się bo..."
+
+- Słuchaj, mogę z Tobą biegać, ale jest jeden warunek... daj znać przed 16... to nie jest warunek.
+
+Tymi słowami we wtorkowe południe przywitał mnie Michał na messengerze. Od kilku tygodni mamy swój męski plan wtorkowego wieczoru: odstawiam moje dzieciaki na basen przebrany już w obcisłe gacie i na godzinę urywam się z Michałem na bieg między Karczemkami a Jasieniem.
+
+Nie zdążyłem zapytać co zatem ma być tym warunkiem, kiedy nasz picasso biegania dodał:
+
+- Warunek jest, że nie będziesz zbierał tych pierd... pokemonów
+
+Nie było wpisu z zeszłotygodniowego parkruna. Nie było bo ja sam bawiłem się w słonecznej Italii, a mój osiedlowy donosiciel faktów z parkruna powiedział po prostu - "wiało". Teoretycznie mogłem pójść na łatwiznę aby zachować ciągłość relacji pt "wiało", ale aż takim niewolnikiem w narzuconych przez siebie kajdanach nie jestem :)
+
+Samolot z Bergamo mieliśmy o 16-tej. Dzięki temu mogliśmy na spokojnie wyspać się bez budzika, zjeść śniadanie, wykąpać się w jeziorze (Dominik cały - ja tylko nogi), pospacerować po mieście, pojechać autobusem do Bergamo, zjeść kanapki na ławeczce w parku przy 18 stopniach ciepła, popatrzeć na startujące samoloty i ostatecznie zapakować się do Ryanera aby po 2 godzinach lotu wylądować w gdańskim deszczu ze śniegiem :)
+
+Więcej rozpisywać się nie trzeba, choć warto wspomnieć, że ciabatta mimo, że wczorajsza to wypełniona oliwkami i kozim serem smakowała pysznie.
+
+Przystąpmy jednak do tego, na co małżonki czekają najbardziej - do podsumowania kosztów:
+
+Poprzedni wpis mówi o tym dlaczego i jak znaleźliśmy się z Dominikiem nad Lago d'Iseo. W tym opiszę dzień najważniejszy - dzień biegu.
+
+Nasz hotel jak wspominałem lata świetności przeżywał pół wieku temu. Ale jedno trzeba mu oddać - to najlepsze położenie jakie można sobie wymarzyć. Kilkadziesiąt metrów od mostu, który wieczorem tego samego dnia zamknie naszą pętlę dookoła jeziora, przy samej promenadzie, z widokiem przez okno takim jak na powyższym zdjęciu.
+
+Budziki nastawiliśmy na 7-mą. Pierwotnie planowaliśmy wyruszyć nieco wcześniej ale godzinę startu zdeterminowała godzina śniadania. Tutaj rozpoczynało się o 7:30. Jedzenie bez szału, tradycyjne hotelowe: pieczywo, szynka, ser, jogurty, dżemy, owoce, tarta z owocami, croissanty, automat z kawa i automat sokami.
+
+Według mnie był to początek września. Staliśmy z Dominikiem na placu zabaw pilnując dzieciaków, które akurat wymyśliły, że będą skakać z daszku mini-zjeżdżalni. Robiło się ciemno, w krótkim rękawku było zimno i zaczynały ciąć komary.
+
+- A może by tak pojechać jesienią pobiegać gdzieś po ciepłych krajach? - zapytał Dominik.
+
+- Jasne... - odpowiedziałem, zabiłem komara, który właśnie mnie ukąsił, chwyciłem dzieciaki za rękę i poszedłem do domu.
+
+Nie minęła godzina, kiedy napisał do mnie Dominik: "kupiłem dwa tanie bilety do Bergamo na koniec listopada"...
+
+Nie było mnie w ostatnią sobotę na Parkrunie Gdańsk-Południe. Nie oznacza to, że nikt ode mnie nie był reprezentowany. Podczas kiedy ja obstawiałem punkty na trasie Tricity Ultra i zajadłem babeczki Kreska wstała o 8:35 i z jednym otwartym okiem i bez śniadania stoczyła się z górki na start parkruna, gdzie odebrał ją Kamil.
+
+Relacja zatem będzie bardzo krótka, w pewnym sensie tylko kronikarska. Wystartowało 75 osób, w tym 9-cioro JM10 lub JW10. Pola wyrwała do przodu i zrobiła PB. Karol pokonał Kreskę o kilka minut, a moja córka ledwie pokonała 36 minut pod opieką Kamila.
+
+I jeszcze jedno. Po kilku minutach od startu zawodnicy się zatrzymali a Paweł obszedł wszystkich z kamerą. Nazywa się to mannequin challenge i wyszło bardzo fajnie.
+
+A kto został bohaterem dnia? Zapytałem o to Kamila, a ten wskazał dwie osoby, które zrobiły swoje PB tego dnia: Pola i Marcin Rz. Ale Marcin już kiedyś był bohaterem, więc tym razem jednogłośnie (czyli głosem Kamila) bohaterem dnia zostaje Pola i jej życiówka 30:49. Gratulacje! Coś czuję, że 30 minut łamiemy już za parę dni, prawda?
+
+Kilka godzin temu wróciłem do domu po kilkunastu poprzednich spędzonych na przemian na punktach, w samochodzie i z telefonem w ręku. I po raz kolejny doświadczam tego błogiego uczucia, które można skrócić w słowach: znów się udało...
+
+Co na to pięta, że w listopadzie wszyscy się z nią żegnają?
+
+Kiedy wieczorem wszyscy śpią, a ja już przeczytałem cały internet, zaglądam z nadzieją na biegowe blogi i szukam nowych wpisów. Portale biegowe mnie nudzą, coraz rzadziej można spotkać tam teksty nie dotknięte nieudolnie maskowaną ręką reklamy. Są oczywiście fajne teksty, ale to temat na inny wpis, inną dyskusję. Nowy wpis na blogu jest jak oddech świeżego zimowego powietrza przed snem wciągnięty przez otwarte okno. Z największą ciekawością śledzę wpisy osób, które w jakiś sposób znam, spotykam się na biegach, albo przynajmniej gdzieś splotłem się w wymianie zdań na forach. Regularnie czytam Biegacza z Północy, Porannego Biegacza, 2h59min, Misia - czyli najlepszych lokalesów :) Śledzę Heavy Runs Light - czyli jednego z nielicznych biegaczy, którzy naprawdę czują o co chodzi w słuchawkach do biegania. Bardzo często brakuje mi czegoś do przeczytania do poduszki. Kiedyś zapytam się Was, jakie blogi biegowe polecacie, takie, o których mogę nie wiedzieć... ale to populistyczne pytanie także zostawię sobie na inny wpis....
+
+Parkrun Gdańsk-Południe #15 - aby coś osiągnąć nie wystarczy tylko chcieć
+
+- Tato, a prawda, że aby coś osiągnąć nie wystarczy tylko chcieć? Trzeba jeszcze coś robić, a nie tylko chcieć. Na przykład ja bardzo chciałam koszulkę Parkrun 10, ale gdybym tylko chciała, nawet nie wiem jak mocno, to i tak bym jej nie dostała. Musiałam po prostu 10 razy pobiec i ją zdobyć!
+
+Byłem trochę oszołomiony tym wywodem filozoficznym, którym uraczyła mnie moja córka maszerując na pakrun o 8:50 w sobotę rano.
+
+- Na początku, jak powiedziałeś, żebym z Tobą pobiegła, to myślałam, że sobie żartujesz. Że to niemożliwe, żeby się udało tyle przebiec, ale się udało. I dzisiaj będę biegła 18-ty raz... szkoda, że nie ma koszulki Parkrun 20...
+
+10 miesięcy temu bardzo wierzyłem w swoją przemianę. Wiadomo, nowy rok, nowe postanowienia, kolejki w Decathlonie, nowe nadzieje. I właśnie wtedy rzuciłem wyzwanie chłopakom z Tricity Ultra - ostatni w biegu na 10 km 11 listopada w Gdyni stawia obiad pozostałym. Wyzwanie całkowicie na wyrost, bo jakby nie patrzeć, to byłem i jestem najwolniejszy z całej ekipy, ale nadzieje były, głównie oparte na tym, że zrzucę kilkanaście kg a ich złapią kontuzje albo lenistwo. Nie byłem bez szans :)
+
+Kiedy o 8:00 wyjrzałem przez okno miałem wrażenie, że bez systemu ILS nie trafimy dziś na start #14-tego parkruna Gdańsk-Południe. Mgła pokrywała oba zbiorniki Świętokrzyska I i II. Nikt nie był pewny ile osób stanęło na starcie. Ci z początku nie widzieli ostatnich i vice versa. W mgle wypatrzyłem Kamila z Karolem, spojrzałem się w oczy seniora i mimo ogólnej złej widoczności zauważyłem, że spał chyba ze 4 godziny...
+
+- Położyłem się o 3-ciej. - powiedział Kamil - Jeżeli chcesz pobiec szybciej, to ja chętnie poprowadzę dziś Kreskę i Karola.
+
+Kiedy pod koniec wakacji spojrzałem na zapowiedzi wydawnicze tej jesieni mogłem tylko złapać się za głowę. Nowe płyty mieli wydać: New Model Army, Yello, Van Der Graaf Generator, Marillion, Nick Cave, Leonard Cohen... Każda z nich zasługuje na osobny wpis, ale od dwóch dni to właśnie nowy Cohen - You Want It Darker zawładnął każdym z moich urządzeń spiętym z Tidalem i Spotifajem.
+
+Pomiędzy nagraniem pierwszej i ostatniej, 14-tej płyty Leonarda Cohena minęło 50 lat. Ostatnie trzy wydawał dokładnie co 2 lata. Pojawiła się plotka, że Cohen został zmuszony do tego przez księgowego, który ogołocił konto artysty do zera. Jeżeli to prawda, to mam pewną petycję w imieniu całego świata fanów Rogera Watersa - błagam, niech ten księgowy podejmie pracę u byłego lidera Pink Floyd!
+
+Rok temu o tej porze przez miesiąc odpoczywałem. Po Łemkowynie, która przez 32 godziny 150-kilometrowej przeprawy zryła mi głowę. Teoretycznie listopad jest miesiącem roztrenowania, ale... kompletnie nie czuję takiej potrzeby w tym roku. Może dlatego, że ja nie mam żadnych cykli treningowych? Ostatnie zawody, do których się przygotowywałem to Sudecka 100-ka w czerwcu. A może leniwy lipiec był po prostu substytutem roztrenowania?
+
+Parkrun Gdańsk-Południe #13 z dynią w roli głównej
+
+- Chciałbym dać parkrunowi coś od siebie. Coś więcej niż tylko uczestnictwo. Chciałbym zrobić parkrunowi wielki termos zupy dyniowej! - takie słowa usłyszałem od Kamila, w ostatni albo jeszcze wcześniejszy piątek.
+
+- Chciałbym, aby nasz parkrun Gdańsk-Południe był wyjątkowy, aby ludzie przychodzili tutaj nie tylko przebiec 5 km, ale też coś dać od siebie. Aby zabierali ze sobą dzieciaki, aby za każdym razem coś się działo. - kontynuował Kamil
+
+- Ach, masz świetne pomysły Kamilu... - odpowiedziałem zanurzając usta w bursztynowym płynie.
+
+Korzystając z tanich biletów lotniczych można dostać się w wiele miejsc Europy często znacznie taniej niż bilet PKS do Bydgoszczy. Sama podróż często też zajmuje mniej czasu. Ale czy pobyt w innym kraju, gdzie trzeba zapewnić sobie dach nad głową i coś do jedzenia ostatecznie wychodzi taniej niż wyjazd na bieganie w polskich górach?
+
+Policzmy koszty naszej 24-godzinnej wyprawy do Nykoping:
+
+Idąc do IKEI dostajemy meble w paczkach. Montujemy je potem tygodniami sami albo z pomocą kumpli. Wystarczy śrubokręt i klucz imbusowy. W podobny sposób podeszliśmy do samodzielnej organizacji wycieczki biegowej. A skoro w stylu IKEA to gdzie indziej niż w Szwecji?
+
+Idea była taka: kupujemy tanie bilety lotnicze gdziekolwiek. Ważne aby były tanie i można było wrócić następnego dnia. Potem ustalamy gdzie będziemy biec. Kilka tygodni temu przeglądając oferty Ryanaira wpadły mi w oko bilety na lotnisko Sztokholm Skavsta z Gdańska za 24 PLN w obie strony. 24 i 25 października. Termin był wolny bo 3 z 4 z nas nie pojchało Łemko i teoretycznie nic nie stało na przeszkodzie aby zapisać się na tę przygodę. Decyzja była szybka. Lecimy. Wylot w poniedziałek o 8:00 rano, powrót następnego dnia o tej samej porze. Mamy 24 godziny na podbój Szwecji...
+
+Parkrun Gdańsk-Południe #12 czyli jak to dobrze, że nie biegnę dziś do Komańczy
+
+Śledzenie tabelek online z wynikami cząstkowymi biegów ultra to naprawdę świetna rozrywka. Lepsza niż oglądanie meczu w tv. Wczoraj wieczorem doczekałem do północy, kiedy w Krynicy zabrzmiał wystrzał startera i ponad 300 osób pomknęło Głównym Szlakiem Beskidzkim na 150-kilomemtrową trasę przez błoto, deszcz, strumienie i góry w kierunku Komańczy. Rano o 7:00 dołączyła do nich grupa biegnąca 70 km z Chyrowej w tym samym kierunku... Jak ja się cieszę, że oba dystansy mam już za sobą i mogłem obudzić się pod ciepłą kołderką :)
+
+Za dwa dni rozpoczyna się III edycja Łemkowyny Ultra Trail. Biegacze będą pokonywali trasę z Krynicy do Komańczy we wszystkich możliwych wariantach. Od 30 do 150 km. A mi jest trochę smutno, bo pierwszy raz w dość krótkiej historii biegu mnie tam nie będzie. Na 150-tkę ciężko będzie mnie jeszcze raz namówić, ale taką 70-tkę z Chyrowej do Komańczy to pobiegłbym naprawdę z przyjemnością... może ma ktoś pakiet do odsprzedania? :D
+
+Na forach ultraunnigowych oraz wśród połowy moich znajomych-biegaczy na FB - Łemkowyna jest absolutnie najgorętszym tematem ostatnich tygodni. Każdy: trenuje do Łemkowyny, radzi jaki sprzęt dokupić na Łemkowynę, pyta się o przejazdy do Krynicy/Krosna, szuka tam noclegów, sprawdza pogodę nad Beskidami... Żaden inny bieg w ciągu ostatniego roku nie wywołał takiego zamieszania i takiego wodospadu informacji w social mediach. No może "afera rzeźnicka" miała swoje gorące pięć minut...
+
+Parkrun Gdańsk-Południe #11 czyli kto się ganiał po moim powórku jak mnie nie było
+
+Jako nadworny kronikarz biegów dookoła zbiorników retencyjnych Świętokrzyska I i Świętokrzyska II w końcu trafił się taki weekend, kiedy po prostu mnie nie było... Miałem dwa rozwiązania: pierwsze, to schować głowę w piasek i udawać, że parkruna nie było, drugie poprosić Kamila aby opisał co tu się działo kiedy ja robiłem to, co wychodzi mi najlepiej - czyli uprawiałem pieszą wycieczkę dookoła Człuchowa.
+
+Dobiegam drogą asfaltową do ścieżki, która ma mnie doprowadzić do PK15. Za mną 17 godzin rajdu. W nogach nominalnie 80 km, ale razem z tymi nadmiarowymi dochodzę w okolice 90-ciu. Dotarcie do PK15 ma być formalnością, specjalnie wybrałem nieco dłuższą drogę północną stroną strumienia aby nie ryzykować przeprawy przez wodę - jeżeli jakość mostku okaże się wątpliwa. No i nagle dróżka staje się ledwie widocznym śladem poprzez pole, przede mną ściana drzew, do której powoli zmierzam. Nie bardzo wiem, czy to jeszcze ścieżka czy już przeprawa na azymut, na pewno za wiele osób tędy nie chodzi... nagle zatrzymuję się, uśmiecham gorzko do samego siebie patrząc na sięgające daleko w gęsty zagajnik BAGNO!
+
+Miałem się nie przyznawać, ale może ktoś jeszcze coś mądrego wrzuci mi w komentarzu, więc lepiej się przyznać i złapać trochę informacji niż jutro przepłakać noc i dzień.
+
+Harpagan jest dla mnie czymś legendarnym i bliskim, ale do tej pory niedostępnym.
+
+Można się obijać cały tydzień, ale w niedzielę, niezależnie od pogody trzeba się o obudzić o 6:45 a o 7:15 spotkać Dominika przed blokiem. Dzisiaj było naprawdę ciężko. Co prawda zwlekłem się z łóżka ale zasiadłem na kanapie z tabletem w ręku i długo się zastanawiałem jakie słowa będą najbardziej odpowiednie aby wyłgać się z dzisiejszego biegania. Myślałem tak z 10 minut i nic nie wymyśliłem. Ze spuszczoną głową założyłem spodenki, bluzę i buty i zszedłem przed klatkę.
+
+Moment nr 1 - Pink Floyd - The Final Cut - pierwsze wolne wybory w Polsce, radio zrzuca kajdany cenzury a TA płyta brzmi w pełnej wersji, ze słowami "Brezhnev took Afghanistan". To jest jeden z dziesięciu najważniejszych momentów mojego życia.
+
+Moment nr 2 - The Sisters Of Mercy - Vision Thing - ostatnia płyta siostrzyczek, a dla mnie klucz włożony w dłoń. Klucz do mrocznego świata muzyki gotyckiej.
+
+Moment nr 3 - Van Der Graaf Generator - Refugees - to tylko jeden utwór, usłyszany w Muzycznej Poczcie UKF w roku 1990, miałem 13 lat i podkochiwałem się w Natalii, ale tego dnia musiałem rozdzielić moją miłość między Natalię i Petera Hammilla.
+
+Moment nr 4 - Legendary Pink Dots - Maria Dimension - jeżeli wypowiesz słowa, że zespół jest niszowy, genialny i niedoceniany to tysiące osób po drugiej stronie radioodbiornika nacisną przycisk "rec". Byłem jedną z tych osób i na lata zakochałem się w Legendarnych Różowych Kropkach
+
+Moment nr 5 - Abraxas - Cykl obraca się... - Zabrałem fiata 126p od rodziców pod pretekstem pojechania na urodziny do dziewczyny, aby zabrać ją w podróż do Człuchowa na koncert tej niesamowitej grupy z Bydgoszczy.
+
+Moment nr 6 - Ostatnia Audycja... wysłuchałem na żywo tylko ostatnią godzinę. Siedziałem potem do rana i nie mogłem zasnąć.
+
+Moment nr 7 - 15.XII.1999 - koncert Petera Hammilla w Kinoteatrze w Bydgoszczy. Po koncercie pierwszy raz w życiu podchodzę do Tomka Beksińskiego, najgrzeczniej jak potrafię witam się i wręczam płytę z muzyką, którą wraz z Adasiem, przyjacielem z czasów LO i studiów nagraliśmy. Czuję się zakłopotany, że ją wręczam, a Tomek widzę, że czuje się równie zakłopotany, że musi ją otrzymać.
+
+Przez cały tydzień padało. Dosłownie dzień i noc. Nie mam już tej psychiki co parę lat temu, kiedy biegało się w deszczu, śniegu, błocie i orkanie :) Wychodzę z założenia, że nic nie muszę sobie udowadniać, a biegać i tak nie przestanę, więc jak wiało i padało od poniedziałku do piątku to po prostu grzałem tyłek w domu.
+
+Kiedyś pisałem, że w Anglii w sobotę o 9:00 rano nigdy nie pada. 2,5 roku temu kiedy biegłem w Bushy Parku - tamten bieg też był poprzedzony tygodniowymi ulewami, ale w sobotę rano, na ten krótki moment niebo się przejaśniło.
+
+Kiedy wstałem dziś rano byłem przygotowany na przeciwdeszczową kurtkę. Ale wychodzę na balkon, patrzę w niebo, a tu nic. Nie pada. Obudziłem Kreskę, która oznajmiła mi:
+
+- Ale ja nie mam sił.... będę biegła wolno.... przecież jestem po imprezce...
+
+No tak, wczoraj świętowaliśmy roczek mojego dziedzica :)
+
+Nie potrafię pisać recenzji butów. Nie lubię tego i nie znam się na tym. Tak samo jak nie robię zdjęć owsianki. Jeżeli miałbym pisać cokolwiek z obowiązku, albo po to aby narobić kliknięć - pewnie po trzech latach przestałbym pisać bloga. Trzy lata jakoś niedawno minęły, a pisanie wciąż sprawia mi przyjemność. To wciąż palce na klawiaturze gonią myśli, a nigdy odwrotnie.
+
+To symboliczne przejście. Nie chcę pozostawić tego faktu bez komentarza. Bagażnik to jeszcze nie grób, można stamtąd powracać - jak ostatnio moje Asicsy znane z wpisu Me and my Asisc. Jednak trafienie tam oznacza, że stają się butami "na wszelki wypadek". I dlatego należy im się właśnie teraz kilka zdań ode mnie.
+
+Kiedy powinniśmy oceniać buty do biegania? Jakie recenzje są najwartościowsze? Dlaczego rynek butów utrwala przekonanie, że buty powinniśmy wymieniać do 500 km? Dlaczego tak często czyta się, że nowe buty pękają/rozklejają się po 200-300 km?
+
+- A może byśmy pobiegli w jakimś orientalnym kierunku? - zapytałem w sobotni wieczór Dominika.
+
+Na poranne niedzielne długie wybieganie umówiliśmy się już po parkrunie. Ustaliliśmy godzinę spotkania tylko nie obgadaliśmy trasy. Tydzień temu byliśmy w Kolbudach, więc ten kierunek odpadał, ale... tak poza tym to my już byliśmy chyba wszędzie w promieniu 20 km...
+
+W niedzielę spotkaliśmy się o ustalonej godzinie, bez większych przygód i zaczęliśmy biec. Po jakiś 500 metrach zapytałem Dominika
+
+- No bo przecież pisałeś wczoraj, że chciałeś pobiec na wschód! - odpowiedział
+
+- Hmmm, pisałem, że chciałem pobiec w jakieś orientalne miejsce, w domyśle tam gdzie jeszcze nas nie było. Niekoniecznie do Azji!
+
+Dziś na starcie byliśmy z Kreską jako jedni z pierwszych. Coś nas nosiło od samego rana... No może nie do końca "anonimowe coś" tylko "coś bardzo konkretnego".... KOSZULKI PARKRUN!! :D Obiecałem Kresce, że nie założę swojej zdobycznej 50-tki do momentu kiedy nie dotrze do nas jej juniorska 10-tka. Trwało to trzy tygodnie, na początku nie było rozmiaru w sklepie, a kiedy już się pojawił, to dostawałem info, że już wykorzystałem swoją "sesję" na zamówienie i nie mogę tego zrobić drugi raz. Na szczęście helpdesk sklepu Wiggle zadziałał wzorowo i chwila na czacie z konsultantem załatwiła temat. Dostałem nawet darmową wysyłkę :)
+
+No więc jesteśmy! 1 października 2016 roku stoimy na starcie 9-tego parkruna Gdańsk-Południe. 54-tego mojego i 14-tego Kreski. Ubrani w koszulki białą i czerwoną. Stoimy i rozglądamy się czy ktoś na nas patrzy jak fachowo wyglądamy :))
+
+Jest 30 września 2016 roku. Dawno temu obiecałem sobie, że pójdę tego dnia do kina na Ostatnią Rodzinę. Nie raz wspominałem, że Tomek Beksiński jest Ojcem Chrzestnym mojej muzycznej edukacji, czego pochodną jest "kącik biegowego melomana". Bez Tomka nie zacząłbym biegać dookoła jeziora, bo nie byłoby we mnie miłości do muzyki, która sprawiła, że wychodziłem posłuchać kilku płyt - przy okazji biegając.
+
+Na Ostatnią Rodzinę nie poszedłem. Dopiero kilka tygodni temu przeczytałem Portret Podwójny Grzebałkowskiej. Chwilę potem komentarz Wiesława Weissa po premierze filmu, a od wczoraj leży na mojej półce Portret Prawdziwy. Jest sporo zamieszania z tym filmem i przedstawieniem postaci Tomka. Z mojej strony za wcześnie na komentarz...
+
+Pamiętam czasy mniej więcej końca mojej podstawówki, rok 1989, na straganach kwitł wolny rynek, a na osiedlu rządził ten, co miał nowe spodnie typu "piramidy". W tych czasach, pewnego dnia ktoś przyniósł do szkoły jakiś stary katalog z modą sprzed kilkunastu lat i dosłownie zaśmiewaliśmy się turlając po podłodze oglądając panów pozujących w tzw "dzwonach". Wtedy wydawało mi się, że obciachowa moda staje się obciachową raz na zawsze i nigdy nie powróci na top. Jak bardzo się myliłem miałem przekonać się już kilka lat później, kiedy Oliver Stone wylansował powrót na flower-power filmem The Doors. Dzwony wróciły.
+
+Jak przebiec 30 km po kolbudzkich lasach i wypić cydr na śniadanie
+
+Człapaliśmy sobie z Dominikiem jarem Raduni zastanawiając się czy chce nam się robić dziś dystans bliżej 20 czy raczej bliżej 30 kilometrów.
+
+- Może nie róbmy całej 30-tki - powiedział Dominik
+
+Nie było już ani śladu porannego chłodu. Po wyjściu z gęstwiny jaru, strzepaniu gałązek z włosów i wyminięciu kilku ponurych wędkarzy, którzy nie odpowiadali na miłe słowo powitania Dominik kontynuował:
+
+Paweł Marcinko dziś nas zawiódł ;) nie ma jeszcze zdjęć z biegu, więc wrzucam z after party.
+
+Sobota, godzina 8:30. Do mieszkania Kamila wchodzi Marcin* ubrany na sportowo i mówi:
+
+- Hej Kamil, to jaką dziś mam przyjąć taktykę, aby pokonać Kreskę?
+
+"Skoro pomimo tylu przebieganych km dalej walczysz z wagą chyba typowe wysokowęglowodanowe diety nie są dla Ciebie odpowiednie... Biegam połowę mniej na paleo low carb i walczę żeby utrzymać wagę i nie chudnąć pomimo zjadania ogromnych, tłustych posiłków. Tylko, że przestawienie się na low carb to zupełnie inny rozkład posiłków i uczenie się biegania od nowa (tętno mocno wzrasta), no i oczywiście można zapomnieć o wegetarianizmie i każdym słowie Jurka. "
+
+Taki komentarz wpadł na mojego bloga tydzień temu pod jednym z wpisów gdzie użalałem się nad sobą i swoim brazylijskim serialem pt. "Walka z wagą jest trudna". Dzisiaj dostałem kolejny od tego samego autora i pomyślałem, że może warto podzielić się szerzej fragmentem mojego doświadczenia z dietą low carb.
+
+Jest wrzesień 1992 roku. Pierwszy raz w życiu wyjechałem na "zachód". Kuzynka zaprosiła mnie i siostrę na kilkanaście dni do Paryża. Mam 15 lat. Oczywiście robią na mnie wrażenie wszystkie zabytki i muzea, sieć metra i witryny w sklepach. Ale jest jedno miejsce w całym Paryżu, które całkowicie mnie paraliżuje ze szczęścia. Do tego stopnia, że błagam starszą siostrę, aby na jeden pełny dzień mnie po prostu tam zostawiła, poszła robić co chce i wróciła wieczorem. Tym miejscem jest gigantyczny, piętrowy Virgin Megastore na polach elizejskich.
+
+Czyste Miasto Gdańsk to nie tylko bieg open. To przede wszystkim impreza o charakterze rodzinnym - w pewnym sensie - sąsiedzkie spotkanie. Podobnie jak rok temu można było dostać za friko dowolną ilość wody z saturatora, dzieciaki na szkolnym boisku mogły korzystać z trampolin, zjeżdżalni. Było malowanie twarzy, twister i mega jenga. No i jeszcze 8 biegów dziecięcych w kategoriach wiekowych od lat 3 do 15.
+
+Bieg w kategorii open był tylko dodatkiem. Bo celem nie było ściągnięcie pod SP12 najlepszych biegaczy, ale zmotywowanie jak największej liczby rodzin do wyjścia z bloków i spędzenia soboty wspólnie na tej imprezie. I to się na pewno udało. Łącznie (wszystkie kategorie) wystartowało 550 osób z czego 2/3 to dzieci. I to nie tylko dzieci "biegających rodziców", a praktycznie wszystkich sąsiadów.
+
+Pod koniec lat 90-tych Tomek Beksiński w Trójce pod Księżycem za każdym kiedy tylko w TVP emitowany był odcinek Bonda (oczywiście z jego tłumaczeniem) odtwarzał muzykę z tego filmu w radio. Seria nazywała się "Bond w Jedynce - muzyka w Trójce".
+
+Takie skojarzenie nasunęło mi się kiedy w kolejną sobotę zasiadłem do opisania dzisiejszego biegu. "Jest parkrun - jest wpis na blogu".
+
+Ciekaw jestem jakie wino będzie z rocznika 2016 bo...
+
+Co na to pięta, że w listopadzie wszyscy się z nią...
+
+Parkrun Gdańsk-Południe #15 - aby coś osiągnąć nie...
+
+Parkrun Gdańsk-Południe #13 z dynią w roli głównej...
+
+Parkrun Gdańsk-Południe #12 czyli jak to dobrze, ż...
+
+Jak przebiec 30 km po kolbudzkich lasach i wypić c...
+
+Moskitiera zamontowana jest do okna za pomocą bezinwazyjnych uchwytów obrotowych co umożliwia zdjęcie moskitiery z łatwością po sezonie w celu przechowania ich na kolejny rok.
+
+Jakość i trwałość wykonania zagwarantują długi okres użytkowania.
+
+W ekskluzywnych aranżacjach ważne jest to, że nie każdy ich element rzuca się w oczy. Wymogi estetyczne i praktyczne dopuszczają, a niekiedy wręcz wymagają ukrycia pewnych elementów. Tak jest z zestawami podtynkowymi – gdyby nie one, przestrzeń łazienek znacząco by się zmniejszała, a i z estetyką bywałoby różnie. Luksusowe zestawy podtynkowe, wykonane z należytą starannością z dobrej jakości materiałów mogą pracować całymi latami nawet w łazienkach użytkowanych z ekstremalną intensywnością. Nie są potrzebne na zewnątrz ścian, można je spokojnie schować przed wzrokiem.
+
+Najlepsze zestawy podtynkowe są dziś bardziej uniwersalne niż kiedykolwiek. W praktyce dają duże możliwości konfiguracji, ponieważ same spłuczki z nimi zintegrowane są zdecydowanie lepiej dopracowane niż te z niższych segmentów cenowych. Montaż zestawów podtynkowych bywa skomplikowany, ale dzięki nim odzyskuje się cenne miejsce (szczególnie dobrze widać to w projektach niewielkich łazienek), a zyskuje równą, gładką powierzchnię ściany. To rozwiązanie zdecydowanie bardziej estetyczne.
+
+Same jednak zestawy podtynkowe byłyby niewystarczające, gdyby nie nowoczesna, zaawansowana technologicznie technika sanitarna. Dziś łazienki są bardziej wszechstronnymi pomieszczeniami niż kiedykolwiek. Z funkcji bardzo praktycznej, stały się domowymi środkami SPA i gabinetami odnowy biologicznej, a to wszystko oznacza, że musiało zmienić się również podejście do ich projektowania. Nacisk, który kiedyś był położony wyłącznie na utylitaryzm projektu, dziś musi zostać rozłożony po równo na estetykę i użyteczność. Temu właśnie służy nowoczesna technika sanitarna.
+
+Sama sieć wodociągowa i kanalizacyjna to za mało – trzeba móc wydajnie i pewnie sterować jej pracą. Może się wydawać, że to określenie jakiegoś skomplikowanego procesu i tak jest w rzeczywistości. Im więcej elementów wyposażenia zostanie zainstalowanych w łazience, tym trudniej jest ją zaprojektować. Technika sanitarna to uzupełnienie, a w zasadzie element równorzędny ceramice i armaturze łazienkowej. Dopiero umiejętne połączenie tych trzech elementów pozwala na stworzenie pięknej i bardzo funkcjonalnej łazienki.
+
+Technika sanitarna to także udogodnienia właściwe dla luksusowych łazienek i domowych SPA. Wszystkie dodatkowe urządzenia, począwszy od skomplikowanych systemów zarządzania przepływem wody, a skończywszy na suszarkach do rąk itp. muszą być właściwie zaprojektowane, a jak sugeruje określenie „technika sanitarna”, muszą też spełniać określone wymogi technologiczne. I tutaj właśnie pojawia się miejsce, w którym narodziła się luksusowa technika sanitarna. Ekskluzywne łazienki są dziś w istocie bardzo skomplikowanymi systemami komfortu, a technika sanitarna pozwala na ich bezpieczne i wygodne funkcjonowanie.
+
+Od ceramiki i armatury, po zestawy podtynkowe i zaawansowaną technikę sanitarną, w łazience każdy element jest częścią większej całości pod względem funkcjonalnym. Jeśli którykolwiek z nich zostanie zaniedbany lub pominięty, łazienka przestanie być luksusowa i komfortowa.
+
+Oferujemy bardzo funkcjonalne i uniwersalne systemy rurowe do instalacji sanitarnych, grzewczych oraz sprężonego powietrza. Schemat działania polega na tym, że rura jest rozprężana a następnie zaciskana na złączce poprzez nasunięcie tulei. Dzięki takiemu sposobowi połączeń gwarantowane jest minimalne przewężenie przekroju wewnętrznego. Wytrzymała grubościenna złączka jest wyprodukowana z jednego elementu.
+
+Przyczynia się to do tego, że asortyment jest przejrzysty, a zaopatrzenie w części zamienne – proste. Posiada 10-litrowy bezpieczny zbiornik. Dzięki specjalnej konstrukcji mechanizmu dźwigni instalator ma przy otwartej klapie rewizyjnej łatwy dostęp do wnętrza spłuczki.
+
+W naszej ofercie znajdziecie Państwo innowacyjne rozwiązania. Jednym z nich jest płytka z koszem na kostkę czyszczącą. Nie tylko poprawia efekt wizualny toalety, ale także higienę i jej komfort użytkowania.
+
+Tece to producent inteligentnych rozwiązań w zakresie technik spłukiwania i szeroko rozumianej techniki sanitarnej. Jest to marka, która wyznacza kierunki rozwoju dla całej branży i w sposób innowacyjny podchodzi do znanych problemów. Estetyka i funkcjonalność idą w przypadku produktów firmy Tece ze sobą w parze.
+
+Dominującym nurtem estetycznym pozostaje minimalizm, co pozwala na dostosowanie elementów techniki sanitarnej Tece do wszystkich wnętrz, niezależnie od stylistyki. Zestawy podtynkowe Tece charakteryzują się prostotą konstrukcji, która przekłada się na bezawaryjność i bardzo wysoką skuteczność spłukiwania. Firma Tece nie zapomina jednak o walorach funkcjonalnych swoich rozwiązań również w kontekście środowiska. Doskonale opracowane projekty pozwalają na minimalizację ilości zużywanej wody, dzięki czemu domowe instalacje sanitarne są nie tylko bardziej przyjazne środowisku, ale również bardzo oszczędne. Jednocześnie ważne jest, że firma Tece sporo uwagi poświęciła elementom zestawów widocznych w łazience. Ogranicza się to najczęściej do przycisków spłukiwania, ale te, z racji sporej powierzchni, co wymusza ergonomia, powinny być zaprojektowane w sposób szczególny. Firma Tece postawiła na nienarzucające się, minimalistyczne wzory o prostych kształtach geometrycznych, wychodząc najwyraźniej z założenia, że prostota jest ponadczasowa.
+
+Jednak Tece to nie tylko zestawy podtynkowe, ale również bardzo zaawansowana technologicznie technika sanitarna, w tym skomplikowane terminale WC, łączące w sobie funkcje spłukiwania dwoma ilościami wody sterowane elektronicznie, oczyszczania powietrza oraz regulacji wysokości. To rozwiązanie jest zupełnie przełomowe, a przy tym stanowi prawdopodobnie wyznacznik kierunku techniki sanitarnej. Jest to jednocześnie dowód na to, że Tece to specjaliści od kompleksowych i bardzo skutecznych rozwiązań. Technika sanitarna jest w przypadku każdej aranżacji punktem newralgicznym, bo dobór urządzeń sanitarnych oraz technologii wpływa na funkcjonalność – projektanci są często zmuszeni do przewidywania problemów, których nie spodziewa się jeszcze nawet inwestor. W takim przypadku ergonomia i użyteczność sugerowanych rozwiązań mogą pozwolić na stworzenie łazienki idealnej. Aby jednak było to możliwe, należy mieć dostęp do najlepszych produktów i technologii.
+
+Właśnie dlatego jeśli chodzi o zestawy podtynkowe i szeroko rozumianą technikę sanitarną firma Tece pozostaje w zasadzie bezkonkurencyjna. Są to rozwiązania klasy premium, pozwalające na dostosowanie łazienek do indywidualnych wymagań przy jednoczesnym poszanowaniu zasobów naturalnych i z zachowaniem najwyższych standardów estetycznych całej aranżacji.
+
+Excel. Nieoficjalny podręcznik (ebook)(audiobook)(audiobook)
+
+Excel to najpopularniejsza aplikacja służąca do tworzenia arkuszy kalkulacyjnych i zarządzania nimi. Jego funkcje wykorzystywane są zarówno do zarządzania listami kontaktów, jak i do przeprowadzania skomplikowanych analiz finansowych. Chyba każdy, kto miał kiedykolwiek do czynienia z zestawieniami, raportami i innymi dokumentami finansowymi, miał okazję poznać i docenić ogromne możliwości Excela. Jedyną wadą tego programu jest brak dokumentacji szczegółowo przedstawiającej wszystkie jego tajemnice.
+
+Książka "Excel. Nieoficjalny podręcznik" wypełnia tę lukę. Opisano w niej wszystko, co dotyczy Excela -- od podstawowych pojęć i zagadnień, poprzez narzędzia i funkcje stosowane w pracy z nim, aż po tematy zaawansowane związane z tworzeniem makr, programowaniem w VBA i używaniem języka XML. Czytając tę książkę, poznasz sposoby wykorzystania Excela do różnych zadań obliczeniowych. Znajdziesz w niej wszystkie informacje, które będą Ci potrzebne podczas pracy z Excelem.
+
+Jeśli chcesz opanować wszystkie możliwości Excela, nawet te najstaranniej ukryte, potrzebujesz takiej książki jak "Excel. Nieoficjalny podręcznik".
+
+Bez wątpienia Excel jest obecnie najpopularniejszą aplikacją służąca do tworzenia arkuszy kalkulacyjnych i zarządzania nimi. Pewnie nie bez powodu, ponieważ wielu użytkowników uważa również, że Excel jest najlepszym tego typu programem na rynku. Można go wykorzystywać zarówno do zarządzania listami kontaktów, jak i do przeprowadzania skomplikowanych analiz finansowych. Niestety, wadą tego programu jest brak dokumentacji szczegółowo przedstawiającej wszystkie jego tajemnice. Niniejsza książka wypełnia jednak tę lukę. Jest ona nieocenionym źródłem wiedzy dla wszystkich użytkowników Excela -- zarówno tych początkujących, jak i zaawansowanych. Książka przechodzi od zagadnień prostszych -- jak korzystanie z formuł i funkcji, tworzenie prostych baz danych czy rysowanie wykresów, do tematów interesujących profesjonalistów -- technik analizy i współużytkowania danych, tworzenia makr, programowania w VBA i używania języka XML.
+
+Nikogo, kto myśli dziś o poważnej pracy z komputerem, chyba nie trzeba przekonywać, jak ważna jest znajomość arkusza kalkulacyjnego, jakim jest np. Excel z pakietu Office. Zainteresowani jego wszystkimi możliwościami, nawet tymi ukrytymi, zapewne bez wahania sięgną po wydany przez Helion przewodnik zatytułowany "Excel. Nieoficjalny podręcznik" przygotowany przez Matthewa MacDonalda.
+
+To trudne do przecenienie źródło wiedzy, zarówno dla początkujących, jak i zaawansowanych użytkowników arkusza. Ci pierwsi mogą bardziej zagłębić się w lekturę początkowych rozdziałów, w których zostały opisane podstawy programu. Ci z większą znajomością tematu, mogą od razu przejść do dalszych części. Zostało tam opisane korzystanie z formuł i funkcji, tworzenie prostych baz danych czy rysowanie wykresów. Profesjonalistów na pewno zainteresują rozdziały, dotyczące technik analizy i współużytkowania danych oraz programowania Excela.
+
+Rozdział 1. Tworzenie arkuszy i poruszanie się po nich (29)
+
+Rozdział 3. Przemieszczanie danych w obrębie arkusza (83)
+
+Rozdział 5. Zarządzanie arkuszami i skoroszytami (141)
+
+Jednoczesne oglądanie odległych części arkusza (165)
+
+Szybkie znajdowanie i używanie funkcji (działanie przycisku Wstaw funkcję) (206)
+
+Rozdział 8. Funkcje matematyczne i statystyczne (219)
+
+MROUND(), ZAOKR.W.GÓRĘ() i ZAOKR.W.DÓŁ() - kolejne funkcje zaokrąglające (221)
+
+ZAOKR.DO.CAŁK() i LICZBA.CAŁK() - odcinanie części ułamkowej (222)
+
+ILE.LICZB(), ILE.NIEPUSTYCH() oraz LICZ.PUSTE() - zliczanie pozycji listy (226)
+
+MAX() i MIN() - znajdowanie wartości maksymalnej i minimalnej (227)
+
+ŚREDNIA() i MEDIANA() - wyznaczanie średniej lub mediany (229)
+
+WYST.NAJCZĘŚCIEJ() - znajdowanie liczb najczęściej występujących na liście (230)
+
+PERCENTYL() i PROCENT.POZYCJA() - zaawansowany ranking wartości (230)
+
+CZĘSTOŚĆ() - identyfikowanie kategorii, do której należy liczba (231)
+
+ILOCZYN(), SILNIA(), POTĘGA() i PIERWIASTEK() - iloczyny, silnie, potęgi i pierwiastki kwadratowe (234)
+
+LOS() i RANDBETWEEN() - generowanie liczb losowych (236)
+
+GCD() i LCM() - największy wspólny dzielnik i najmniejsza wspólna wielokrotność (238)
+
+KOMBINACJE() i PERMUTACJE() - obliczanie kombinacji i permutacji (239)
+
+PMT(), PPMT() i IPMT() - wyznaczanie kwoty i liczby rat (253)
+
+NPER() - ustalanie liczby rat potrzebnych do spłaty pożyczki albo osiągnięcia celu inwestycyjnego (255)
+
+RATE() - ustalanie stopy procentowej niezbędnej do osiągnięcia wartości przyszłej (256)
+
+NPV() i IRR() - wartość bieżąca netto i wewnętrzna stopa zwrotu (257)
+
+Rozdział 10. Manipulowanie datami, godzinami i tekstem (267)
+
+DŁ(), ZNAJDŹ() i SZUKAJ.TEKST() - zliczanie oraz wyszukiwanie znaków w ciągu (269)
+
+LITERY.WIELKIE(), LITERY.MAŁE() i Z.WIELKIEJ.LITERY() - zmiana wielkości liter (271)
+
+TEKST(), WARTOŚĆ(), ZAOKR.DO.TEKST() i KWOTA() - przekształcanie tekstu w liczby i vice versa (273)
+
+DZIŚ() i TERAZ() - wstawianie bieżącej daty i godziny (279)
+
+DATA() i CZAS() - daty i godziny w obliczeniach (280)
+
+DZIEŃ(), MIESIĄC() i ROK() - więcej obliczeń na datach (281)
+
+GODZINA(), MINUTA(), SEKUNDA() - więcej obliczeń związanych z czasem (283)
+
+DATA.RÓŻNICA() - obliczanie różnicy między datami (284)
+
+DATA.WARTOŚĆ() i CZAS.WARTOŚĆ() - przekształcanie dat i godzin w numery seryjne (286)
+
+DNI.360() - ustalanie liczby dni między dwiema datami (287)
+
+YEARFRAC() - obliczanie, ile procent roku stanowi czas między dwiema datami (288)
+
+NETWORKDAYS() - ustalanie liczby dni roboczych (290)
+
+WORKDAY() - ustalanie daty oddalonej o określoną liczbę dni roboczych (290)
+
+WEEKNUM() - obliczanie tygodnia, w którym przypada data (291)
+
+Rozdział 11. Funkcje wyszukiwawcze, referencyjne i informacyjne (293)
+
+PODAJ.POZYCJĘ() - znajdowanie pozycji elementu w określonym zakresie (299)
+
+PRZESUNIĘCIE() - modyfikowanie odwołań do komórek (304)
+
+ADR.POŚR() i ADRES() - praca z odwołaniami zapisanymi w postaci tekstu (306)
+
+TRANSPONUJ() - zmiana wierszy w kolumny i odwrotnie (309)
+
+Funkcje "CZY" - sprawdzanie wartości przechowywanej w komórce (310)
+
+INFO() i KOMÓRKA() - gromadzenie informacji o komputerze i o komórkach arkusza (312)
+
+Samouczek - szybkie wystawianie faktur na podstawie katalogu produktów (314)
+
+LICZ.JEŻELI() - zliczanie komórek spełniających określone kryterium (319)
+
+SUMA.JEŻELI() - dodawanie komórek spełniających określone kryterium (322)
+
+Stosowanie możliwości automatycznego filtrowania (363)
+
+Rozdział 14. Grupowanie danych i tworzenie konspektów (375)
+
+Sztuczki pozwalające na oszczędzanie czasu przy grupowaniu (386)
+
+Twój własny niestandardowy pasek narzędziowy grupowania (391)
+
+Tworzenie nowych arkuszy przy użyciu szablonów (397)
+
+Wyszukiwanie szablonów udostępnionych w witrynie Office Online (405)
+
+Sprawdzanie poprawności danych z wykorzystaniem formuł i odwołań do komórek (420)
+
+Sprawdzanie poprawności danych z wykorzystaniem list (423)
+
+Rozdział 17. Formatowanie i udoskonalanie wykresów (469)
+
+Dodawanie słupków błędów do wykresów przedstawiających dane naukowe (492)
+
+Przerwy, szerokości i nakładki w wykresach kolumnowych (502)
+
+Część V Zaawansowane techniki analizy danych (531)
+
+Rozdział 19. Scenariusze i wyszukiwanie ukierunkowane na cel (533)
+
+Wyszukiwanie ukierunkowane na cel wykorzystujące złożone równania (543)
+
+Scalanie w jednym skoroszycie zmian dokonanych w kilku skoroszytach (605)
+
+Wysyłanie skoroszytu pocztą elektroniczną przy użyciu Excela (608)
+
+Równoczesne próby uzyskania dostępu do nieudostępnionego skoroszytu (614)
+
+Działanie mechanizmu udostępniania skoroszytów (617)
+
+Rozdział 22. Wymiana danych z innymi programami (619)
+
+Rozdział 24. Podłączanie arkuszy do sieci WWW (663)
+
+Badanie - alternatywa dla kwerendy sieci Web (678)
+
+Dodawanie hiperłącza do strony WWW lub dokumentu (680)
+
+Dodawanie hiperłącza wskazującego na lokalizację w arkuszu (682)
+
+Funkcja HIPERŁĄCZE() - samodzielne tworzenie łącza (683)
+
+Rozdział 25. Automatyzacja zadań za pomocą makr (687)
+
+Dodawanie polecenia wywołującego makro do paska narzędzi lub do menu (703)
+
+Dołączanie makra do przycisku znajdującego się w arkuszu kalkulacyjnym (707)
+
+Rozdział 26. Programowanie arkuszy kalkulacyjnych przy użyciu języka VBA (709)
+
+Korzystanie z Pomocy w Excelu 2003 w trybie offline (742)
+
+Raport tabeli przestawnej i wykresu przestawnego (780)
+
+Biblioteka Publiczna w Krasnem-Światowy Dzień Wody- spotkanie z klasą 0″C” Szkoły Podstawowej w Krasnem- 21 III 2018 r. – GOKiB Krasne
+
+Dzisiaj odwiedziłam uczniów klasy „0” C. Okazją do tego był zbliżający się Światowy Dzień Wody, który przypada 22 marca. Został ustanowiony w celu uświadomienia, jak wielką rolę odgrywa woda i jak wielkie zagrożenie niesie ze sobą spadek jej zasobów. Przy pomocy skrzynki kamishibai, przeczytałam dzieciom opowiadanie Anny Onichimowskiej pt. :”Po drugiej stronie gór”. Główną bohaterką … Czytaj dalej Biblioteka Publiczna w Krasnem-Światowy Dzień Wody- spotkanie z klasą 0″C” Szkoły Podstawowej w Krasnem- 21 III 2018 r.
+
+Witam. W dniu wczorajszym spotkała mnie niemiła niespodzianka. Otóż podczas jazdy zabrakło paliwa ( uszkodzony wskaźnik), po około 5 litrów paliwa samochód w dalszym ciągu nie odpala. Tzn po dłuższej przerwie zapala, ale od razu gaśnie. Dwa tygodnie temu została wymieniona pompa paliwa, oraz jakaś...
+
+Samochody Mechanika tichor 23 Lip 2012 20:18 Odpowiedzi: 3 Wyświetleń: 2053
+
+Elektryk został zmieniony;) Auto gasło momentalnie - podczas jazdy. Po wymianie bezpiecznika wystarczy, że włączę światła mijania i gaśnie oraz pali bezpiecznik. 60A Pod maską - drugi od góry.
+
+Witam i szukam pomocy ..... Jakiś czas temu nabyłem Opla Zafirę z roku pańskiego 2006-go. Pojemność 1,6 16V. Czary jakie okazały się po zakupie są trudne do opisania. Kontrolka sprawności pali się cały czas i po zgaszeniu pokazuje co rusz inne usterki. Wymieniłem sondy na oryginalne, przewody wysokiego...
+
+Samochody Początkujący MARGOLAUTOMOBILE 24 Paź 2016 07:51 Odpowiedzi: 4 Wyświetleń: 978
+
+Witam. Mam problem z astra f 1.6 8v 1993. Samochód odpala jeździ ale czasami gaśnie w czasie jazdy. Ale po chwili kręcenia odpala ponownie. Jak pada deszcz to usterka występuje częściej. Odczytane błędy metodą błyskową to 13 sonda lambda i 42 Obwód pierwotny układu zapłonu z rozdzielaczem lub obwód,...
+
+Witam Cały czas pomiar napięcia ; złącze urządzenia sterującego A11-C10 -złącze czujnika temperatury odłączone – 5 V -silnik zimny temperatura około 6 C - 2.14V Silnik jak uruchamiam gaśnie dwa razy, trzy a czasami więcej zależy od temperatury Jadę około kilometr (w czasie jazdy...
+
+Opel Vectra B 1.6 8V - Samochód gaśnie na benzynie jak jest ciepły na gazie ok
+
+Niestety narazie nie mam możliwości podłączenia go pod komputer. Dziś przeczyściłem silniczek krokowy od wolnych obrotów, a dokładnie styki, które były bardzo zaśniedziałe i problem z gaśnięciem prawdopodobnie minął bynajmniej po 30 minutach jazdy się nie pojawił. Co do dławienia się to gdy mocniej...
+
+Dzień dobry. Może problem podobny ale inny.Moja lala ogłupiała po usunięciu gazu,mianowicie non-stop gaśnie. A wygląda to tak silnik odpalony wskaznik temperatury chłodnicy pokazuje max,wskazówka spada samochodem zaczyna szarpać dławi się obroty falują i gaśnie czasami od razu ,a czasami po chwili,...
+
+A nie ma tam pierścienia czytającego, który jest nakładany na stacyjkę? Przecież jest, to system 1H0 czyli Golf 3. Przełożyć pierścień, przełożyć pastylki w kluczykach (lub przykleić do pierścienia stacyjki) i... jazda!
+
+Zgodnie z kolegi powyżej zaleceniem wyjąłem radio . Problem był taki sam po ok 10 km. Zauważyłem że zanim zaczął gasnąć godzina oraz data elektroniczne migały. Nagrałem filmik telefonem mogę pokazać jak to migało. A jak wyłączyłem podczas jazdy na chwilkę światła to nie migała data i godzina . Akumulator...
+
+Witam Kupiłem ostatnio Opla Astre II 1.2 2003r w benzynie (przejechane 190tyś). Obroty falują tak od około 600-800. Samochód na zimnym silniku gaśnie, obroty spadają do 600-500 i do 0.Czasami gaśnie na luzie, albo jak po prostu dam mało gazu.Przy ruszaniu musze dodać sporo gazu, bo inaczej zgaśnie....
+
+Samochody Początkujący Stanisław Chwalisz 29 Cze 2015 06:34 Odpowiedzi: 3 Wyświetleń: 1137
+
+Pocztą pantoflową znalazłem mechanika z prawdziwego zdarzenia, siedział nad samochodem trzy dni, pozamieniał wszystkie czujniki łącznie ze sterownikiem silnika i nic mu z tego nie wyszło, więc zaczął od podstaw, od wtrysków, wtryski były nowe i ta informacja go zmyliła po numerze win doszedł że wtryski...
+
+Witam!miałem to samo.Spowodowane jest to wtłaczaniem za duzej ilosci powietrza w filtr.Skieruj rure od filtra w kierunku przeciwnym do kierunku jazdy.Jak dobrze pamietam wlot powietrza masz pod zderzakiem... rure od filtra mam calkie zdjeta wiec nie ma mozliwosci zeby lecialo zbyt wiele powietrza...
+
+CZESC WSZYSTKIM !!! c czy może mi ktos pomóc posiadam Pythona SP 3000 K2 i mam taki problem : podczas jazdy gasnie mi auto jak sie mocniej rozgrzeje i po ponownym uruchomieniu nie moge zaplić. Nie wiem co jest ! ale po od czekaniu 10 min. pali . Nie wiem może to sprawa tego imobilaizera ktory jest podłączony...
+
+Samochody Elektryka i elektronika vcc 29 Sty 2009 19:04 Odpowiedzi: 1 Wyświetleń: 1558
+
+Samochód został oddany do warsztatu przez właściciela. Zobaczymy co tam powiedzą. Ja miałem się tam tylko z grubsza zorientować co jest grane. Za bardzo nie mam czasu ani chęci żeby się tym zajmować.
+
+Mam pytanie czy większe "klekotanie" na zimnym to normalna sprawa ? ogólnie to gaśnięcie mnie prowadzi do wtrysku. Czy jest sens zrobić próbę przelewową domowym sposobem ? strzykawki itp?. Problemów z odpalaniem niema , nie dymi ale trochę muli mam porównanie bo jeździłem inną taką sama sztuką szła...
+
+Volkswagen POLO 1,3 GT coupe - Samochód gaśnie podczas jazdy
+
+Witam Rok 1992. Gazu nie ma. Od kilku dni mam ten sam problem. Podczas jazdy samochód traci moc i gaśnie. Cofnięcie kluczyka i samochód się ponownie uruchamia. Raz zgasł i nie dało się uruchomić, holowanie. Mechanik wymienił cewkę wysokiego, samochód zapalił, ale podczas jazdy dzieje się to samo....
+
+Samochody Elektryka i elektronika laserjack 03 Lis 2014 09:49 Odpowiedzi: 4 Wyświetleń: 798
+
+Witam Posiadam Mercedesa Vito 2.2 112 CDi (1999 rok). Po przejechaniu ok. 30 km, w trakcie jazdy samochód gaśnie. Komputer u mechanika wykrył błąd w postaci wadliwego czujnika ciśnienia paliwa. Następnie po następnym podłączeniu do komputera wykryto wadliwy czujnik temperatury płynu chłodzącego i czujnik...
+
+Raczej by nie odpalał albo ciężko przy Pb i gazie jednocześnie, gdyby zawór nie trzymał. Podłącz kontrolkę pod zasilanie pompy i zobacz, czy ono będzie w momencie gaśnięcia. Tylko na Pb gaśnie? I zaraz można go uruchomić czy trzeba kręcić?
+
+VW Golf V - Samochód gaśnie podczas jazdy i nie chce zapalić
+
+Może i czujnik gdy jest przy wale, a nie w aparacie zapłonowym. Na ciepłym gaśnie ? Wtedy zwykle musi się schłodzić.
+
+Samochody Mechanika noidemm 23 Gru 2017 20:29 Odpowiedzi: 8 Wyświetleń: 303
+
+Polo 6n 1.3 adx samochód gaśnie w trakcie jazdy i nie odpala.
+
+Tak jak kolega zybi pisze sprawdź czy jest iskra.. Moduł cewki na podszybiu, oraz kostkę stacyjki czy styki nie są wypalone. Ps. Podłączenie komputera to nie jest sprawdzenie:) Dodano po 4 W związku z tym ze auto gaśnie podczas jazdy do sprawdzenia sygnały z czujnika położenia wału korbowego...
+
+Volkswagen Golf Mk5 GT 2.0 FSI - samochód gaśnie podczas jazdy
+
+Witam. Mam problem z Volkswagenem Golf Mk5 GT 2.0 FSI. Silnik nagrzewa się i gaśnie podczas jazdy. Znalazłem na forum, że przyczyną może być czujnik położenia wału. Zakupiłem go i został zmieniony, ale nadal jest to samo. Dodatkowo teraz zapala się kontrolka silnika. W czym tkwi problem? Mechanik podłączał...
+
+Witam, mam problem z Golf V 1.9 tdi 105 km 2005. Samochód jak w temacie gaśnie podczas jazdy, zazwyczaj nie jest problemem przejechanie do 10 km ale już po około 20 km może zgasnąć, auto gaśnie jedynie na niskich obrotach a dokładnie przy wciśnięciu sprzęgła podczas na przykład zatrzymywania się, trochę...
+
+Jak w temacie, posiadam Audi a3 1.8 T z gazem sekwencyjnym, samochód 1997 rok oznaczenie AGU numer nadwozia WAUZZZ8LZVA079241 samochodzik śmigał świetnie, fajne przyspieszenie (wersja 150 konna) do czasu, ostatnio jazda stała się udręką, samochód faluje na obrotach, szarpie podczas jazdy (wciskam...
+
+miałem podobny problem, kia ceed 1,6 crdi, 2008. kompueter u mechanika stwierdził wtryski i zwrócił auto z infromacją, że on tego nie naprawi. oddałem samochód niby do "specjalistów", którzy zabrali się za wtryski. twierdzili, że naprawa ich rozwiąże problem gaśnięcia auta. regenracja po 350 zł za...
+
+Samochody Początkujący JAHMAN 17 Sie 2015 16:07 Odpowiedzi: 10 Wyświetleń: 6627
+
+Witam! Dwa miesiące temu zakupiłem golfa III (1,9 turbo diesel). Autko cacuszko, naprawdę w stanie idealnym. Piękny silnik, równiutkie obroty, wspaniale utrzymany. Przy zakupie oglądali go mechanicy i nie dopatrzyli się żadnej usterki. Zaraz po zakupieniu autka wymieniłem części ekspolatacyjne (oleje,...
+
+Witam mam problem, jak już wspomniałem w temacie gaśnie mi auto, ale w charakterystycznym momencie. Podczas normalnej jazdy gdy przyspieszam niezależnie czy gwałtowanie czy spokojnie wszystko jest OK, jak chodzi na wolnych obrotach tez wszystko jest OK. Gaśnie tylko wtedy jak hamuje silnikiem, przy normalnym...
+
+Vw lt 35 2.8 tdi 158km 2003 rok gaśnie w czasie jazdy
+
+Witam. Posiadam auto jak w temacie.Podczas jazdy samochód gaśnie tak jak by go coś go odcinało.W serwisie stwierdzono uszkodzenie czujnika wału korbowego(wymieniłem-nadal jest to samo). na djagnostyce nie wykazało uszkodzenia wtrysków oraz żadnych innych błędów.Wymieniłem filtr paliwa (nadal to samo)....
+
+Witam serdecznie Ja mam taki sam problem, też mam golf II silnik 1,8 ale benzyna ( nie mam instalacji LPG,samochód gaśnie mi w czasie jazdy. Jestem już po regulacji zapłonu, wymienione kabli, świec, ustawili mi jakąś sondę i problem ten sam. Dodano po 14 Silnik gaśnie podczas jazdy i przeważnie...
+
+Mam problem z samochodem Citroen Xsara 2.0HDI. Podczas jazdy przy wciśnięciu większej ilości pedała gazu samochód gaśnie, lecz w miare można było nim jeszcze jeździć ponieważ można było się nim rozpędzić do około 80km/h. Teraz już prawie nie można nim jeżdzić ledwo się toczy i szarpie. Bardzo proszę...
+
+Samochody Mechanika speccar 17 Lip 2008 23:51 Odpowiedzi: 8 Wyświetleń: 6848
+
+Witam. Coś dolega mojemu samochodzikowi:( Podczas jazdy, zapaliła mi się kontrolka wtrysku(marchewka )nagle nastąpiło szarpnięcie i brak mocy, po chwili zgasła, znowu szarpnięcie i nagle przyrost mocy, później samochód podczas jazdy zgasł, odpaliłem w trakcie jazdy na nowo, jechał i znowu zgasł, zatrzymałem...
+
+Samochody Elektryka i elektronika Jakub365 27 Kwi 2009 01:00 Odpowiedzi: 4 Wyświetleń: 2809
+
+Mam problem z samochodem Citroen Xsara 1,4i. Samochód gaśnie podczas jazdy, gdy wciskam sprzęgło i redukuje bieg. Chciałbym zapytać co może być przyczyną? Wykluczyłem silniczek krokowy bo wolne obroty są dobre. Z góry dziękuję.
+
+Witam, po zakupie Citroena Xsara Picasso 2.0HDI mam z nim problemy i to nie małe. Kilka miesięcy temu samochód gasł podczas jazdy, mechanicy stwierdzili, że to wtryski paliwa, wymieniliśmy. Dziś jadąc samochód znów zgasł, był problem z odpaleniem i od jakiegoś czasu słychać pompkę w baku. Proszę o...
+
+Witam Astra G 98r Może ktoś miał doczynienia juz z czymś takim, bo ja kompletnie nie wiem od czego się zabrać a otóż problem polega na tym że podczas jazdy zarówno na gazie jak i na benzynie samochód gaśnie tzn jak dojeżdżam do skrzyżowania i wciskam sprzęgło gaśnie. Ten sam problem występuje na gazie...
+
+Witam. Jestem nowy na tym forum wiec nie bardzo wiem od czego zacząć. A wiec tak mam Fiata saicento 900 benz-gaz. Samochód gaśnie w czasie jazdy wygląda to na tej zasadzie ze: Samochód jedzie normalnie przyspiesza itp a po chwili gaśnie i nie idzie go zapalić w sensie tak jak by miał rozładowany akumulator...
+
+Na poczatku chciałbym sie przywitać, to mój pierwszy post na forum :) Teraz pozwólcie że przejdę do rzeczy. Samochód gaśnie w trakcie jazdy, niezależnie od biegu. Na początku działo się bardzo sporadycznie, jednak teraz zaczyna to być coraz bardziej dokuczliwe. Z moich obserwaci wynika że gaśnie...
+
+Samochody Mechanika Lolenciusz 16 Maj 2009 08:20 Odpowiedzi: 6 Wyświetleń: 12479
+
+Witam, Posiadam Opel Agila 1.2 w Benzynie na gazie. Od kilku dni mam dość duży problem. W trakcie jazdy samochód gaśnie. Potem mam problemy z zapaleniem, a jak już zapale to włącza mi się lampka ze coś z układem elektrycznym jest nie tak. Samochód tak samo zachowuje się na benzynie jak i na gazie....
+
+Witam Golf 3 1.6 benzyna, 94r. 55kW Historia moje problemu z samochodem jest dość długa, więc nie będę wszystkiego opisywał, a skupię się na obecnym problemie. Do dnia dzisiejszego, samochód gasł mi podczas jazdy. Niekiedy zaczynał pracować po chwili normalnie, niekiedy musiałem się zatrzymać odczekać...
+
+Witam, mam mały problem. Podczas jazdy przy redukcji z wyższego biegu na 2-1 i trzymaniu sprzęgła samochód gaśnie przy skręcie, jeździe na wprost. Gdy redukuję stopniowo po kolei z biegów samochód pracuje normalnie. Dodam jeszcze, że na luzie wahają mu się obroty po odpaleniu. Czy to może być wina...
+
+Witam.Trochę mi się tu nazbierało.Zacznę tak.Samochód gaśnie przy 70km/godz.(monotonna jazda).Wpierw trochę poszarpie,gdy próbuję przyspieszyć dusi się w końcu gaśnie.Zapalają się kontrolki ładowania i smarowania.Wyłączam kluczyk przekręcam(uruchamiam),i jadę dalej.Robię to już bez zatrzymywania się(rutynowo)...
+
+Witam serdecznie. Posiadam Golfa IV kombi, 2003 rok, 1,9 Tdi tiptronic, mam ogromny problem samochód podczas jazdy mi gaśnie, odłączono EGR obydwa przewody, i przepływomierz niestety auto po przejechaniu 20 km znowu padło, odpalało dopiero po heblowaniu i wciskaniu gazu w tym samym czasie, jak tylko...
+
+Samochody Eksploatacja pieckais 24 Kwi 2015 07:03 Odpowiedzi: 8 Wyświetleń: 5265
+
+Witam serdecznie posadami forda s-max 2.0 dci 163km od dłuższego czasu borykam się z taką przypadłością gaśnięcia samochodu podczas jazdy. Jeździłem po przeróżnych mechanikach i nikt nie ma pojęcia czym to może byś spowodowane. Większość przypadków kiedy auto samoczynnie gaśnie zdarza się podczas gorących...
+
+Koledzy mam podobny problem Xsara Picasso 2.0 HDi 90 km . Podczas przyspieszania samochód gaśnie , zapala się żółta kontrolka. Dodam iż wtryski sprawdzone , pompka paliwa w zbiorniku wymieniona , zawór ciśnienia na listwie cr wymieniony , zawór na pompie wysokiego ciśnienia wymieniony , filtr paliwa...
+
+Witam. Mam pewien problem z moim fordem focusem 2000r 18 tddi. Usterka polega na gaśnięciu samochodu podczas jazdy lecz nie tylko, gaśnie na zimnym silniku gdy włączam światła lub gdy zmieniam z pozycyjnych na drogowe. Jaka może być przyczyna ? Nic do tej pory nie sprawdzałem nigdzie nie prowadziłem...
+
+Opel Astra 1,4 1997 r. Gasł podczas jazdy. Po kilkudniowym postoju nie pali.
+
+Witam Forumowiczów Mam opla astrę 1,4 97r . Kłopoty podczas jazdy: gdy nogę zdjąłem z gazu lub lekko naciskałem, to samochód gasł, po ponownym "zapaleniu" kluczykiem zaskoczył i jechał. Gdy postał parę dni w garażu miałem kłopoty z zapłonem , zapalił, gdy od razu go zgasiłem nie odpalił. Zapych....
+
+Samochody Elektryka i elektronika gby 27 Lut 2005 09:50 Odpowiedzi: 3 Wyświetleń: 1721
+
+Witam. 2 lata temu kupiłem VW 94' i cały czas mam problem. Podczas jazdy zapala sie zółta kontrolka grzania świec/silnika i samochód gaśnie czyli jak mniemam "cos" wyłącza pompę wtryskową. Na poczatku wystarczyło wyjac kluczyk ze stacyjki na 2 sec odpalic i jechać. Teraz trzeba poczekac dłużej ale zauwazyłem...
+
+Opel Astra 1,7TD - silnik gaśnie podczas jazdy - help!
+
+Witam :) Podobna sytucja w mercedesie ( diesel ) samochód podczas jazdy gasł bez wyraźnej przyczyny, odpalanie " jak mu się zachciało ". Wizyta w autoryzowanym serwisie nic nie dała ( próba rozmowy z "fachowcami " z elektrody też nic - zmowa milczenia ? ) . Winnym okazał się moduł z przekażnikami...
+
+Samochód gaśnie podczas jazdy lub na postoju (na wolnych obrotach) odpala po pewnym czasie POMOCY nikt nie wie co mu jest. I czy pęknięcia na cewce oznaczaja że jest do wymiany ?
+
+Samochody Elektryka i elektronika beata pn 12 Lis 2005 10:35 Odpowiedzi: 5 Wyświetleń: 1620
+
+Witam Na początku chciałbym przybliżyć temat: Jakies 2 lata temu mialem ten sam problem samochód gaśnie w najmniej spodziewanym momencie, np zaraz po odpaleniu pochodzi 30sec i zgaśnie potem problem z odpaleniem, kręci kręci i załapie, smierdzi potem benzynką. Zaden elektronik nie chciał sie tego podjąć...
+
+witam mam problem tego typu że samochód gaśnie mi podczas jazdy na benzynie po przejechaniu ok kilometra po czym trzeba chwilę odczekać i odpalić ponownie,natomiast na gazie jeździ normalnie bez problemu. Co może być przyczyną owej usterki???
+

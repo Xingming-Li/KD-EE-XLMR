@@ -1,0 +1,242 @@
+Författare Ämne: Thermia Online (läst 7364 gånger)
+
+Hejsan jag har en Termia Diplomat duo 8, med Thermia Online ,instalerad för 6 månader sedan (första vintern) vad finns det för möjligheter att få värderna på trender? (på datorn) som det är nu får jag bara värden i realtid
+
+Har någon funderat på varför man inte får inomhusteperaturens kurva synlig i grafen? Är det någon som frågat Thermia? Skulle det inte vara väsentligt att kunna kolla historiken på den då man skall ställa in kurvan?
+
+Då jag frågade i Finland fick jag svaret: Det är antagligen någon ingenjör som tyckt att den inte behövs..
+
+Då jag skickat förfrågan till Sverige så lyser svaret med sin frånvaro.. Ingen vidare kundbetjäning..
+
+Vad är det för värden du är ute efter? Du hittar de flesta värdena/temperaturerna under fliken som heter grafer (dock inte innetemperaturen som musicman1 påpekade och önskade).
+
+Jag tycker att det finns väldigt mycket för Thermia att göra när det gäller Online. Det är otroligt segt, gränssnittet känns ålderdomligt, det saknas mycket funktioner och val och för mig är det väldigt instabilt. Just nu ritas t ex inte "Framledning bör"- och "Ute"-graferna ut hos mig.
+
+Jag har haft Online i knappt en vecka och börjar redan ångra att vi betalade 5500 kr för det...
+
+Förlåt alla mina jobbiga frågor. Vi blev helt lämnade av vår ÅF efter betalning och jag kan verkligen ingenting om uppvärmning. Jag har dessutom nedsatt kognitiv förmåga pga sjukdom vilket gör att jag har lite svårt att ta till mig information från text, speciellt avancerad sådan. Bruksanvisningar är t ex riktigt jobbiga...
+
+Betalar man någon månadsavgift för Online (utöver hårdvaran)?
+
+Thermia Optimum 12 med 2x300 i åker. Hus från 1880(?) 300 kvm inkl källare. Tilläggsisolerat. Tagit bort vedpanna sep -14. Installerat Thermia Link + termostater september 2011. Bytt ut de flesta panelradiatorerna mot Duplex fr
+
+Tot förbrukning med gamla 2-glas fönster, 2015 apr bytt till energiglas+argon i gamla bågarna u-värde 1,1:
+
+Nope, inte längre, nu går det via hemmanätverket så det kostar ingenting. Tidigare gick det ju via GSM-nätet och då kostade det mobiltrafik.
+
+Hur Thermia hanterar kunder som har all hårdvara när de köpt Link och sedan vill registrera sig för Online skulle ju vara lite intressant att veta! Vi har ju konstaterat att hårdvaran är identisk för Online och Link så du Hjopek borde ju kunna köra Online lika väl som jag.
+
+Är det någon mer än jag som ofta har problem med att valen för att visa "Ute" och "Framledning bör" i graferna är borta? Dessutom har jag stora problem med att DCM ideligen tappar kontakten med Internet och måste startas om, någon annan som upplever samma sak?
+
+Vad ska man ha Online till om det inte visar det man är intresserad av och om det måste startas om stup i kvarten...?
+
+Jo. Problem här också. Ute temperaturen har inte funnits med i grafen sedan 5.10.
+
+Det är nog sällsynt med hela kurvor då det gäller Thermia Online, i.a.f. för min del.
+
+Det här fick jag som svar då jag kontaktade thermia.
+
+" Beror på att kurvan visar det första loggade värdet under den period man angett. Alltså, om man frågar efter detta dygns t.ex. utetemperatur och den första loggningen inte sker förrän klockan 03:00 så kommer det att vara tomt fram till 03:00. Likadant om klockan är 16:00 på eftermiddagen och den sista loggningen är t.ex. klockan 13:00 (utetemperaturen har inte ändrats sedan då). Så kommer kurvan att sluta klockan 13:00"
+
+Det var ju osedvanligt fånigt...varför loggar den inte hela tiden då...? (OBS, retorisk fråga!) Dessutom stämmer det inte just nu...i så fall skulle inte utetemperaturen ändrats sedan i söndags natt, alltså konstant utetemperatur i drygt ett dygn! Skulle inte tro det...
+
+Är det verkligen värt 5500 kr för detta...?! Jag börjar luta mer och mer åt att reklamera "Online"...jag hade sett fram emot att kunna följa pumpens arbete från datorn och därigenom lära mig mer om den men som det är nu blir jag ju mest besviken på att det inte fungerar...
+
+Det kanske finns en anledning till att inte så många skriver i den här tråden...de flesta har kanske valt bort Online på grund av dess brister...
+
+Jag valde bort online för att jag fick mer funktion på annat håll Hade fördelen att ha en kollega som har online och kunde dema den åt mig.
+
+Jag är inte i VP branschen och har begränsad kunskap, all erfarenhet/kunskap kommer från 1st värmepump, min egen. Min är en G3a och den kan mkt väl arbeta annorlunda mot vad din gör. Ta därför mina texter för vad de är "amatören spekulerar". Om vi diskuterar solceller, så gäller samma sak. Jag har bara erfarenhet av min anläggning på mitt hus.
+
+Hus: 155m2 på 1.5plan + 40m2 fristående garage/förråd.
+
+Contura 660T som mys-eldas och en Mitsubishi Kirigamine FD luft/luft värmepump (används som AC).
+
+6,0kWp solceller från JA-solar. Växelriktare Fronius 5.0-3-M (5kW) + Fronius SmartMeter. Förväntat utbyte 5000kWh / år
+
+2013-11-29: Konverterat från direkt el till -> BVP. Garage från kallt till direkt el. Förråd fortsatt el.
+
+Beräknad köpt el 2017: 11,5MWh (varav 0,7MWh är återköpt)
+
+Vad menar du med "på annat håll"? Om jag kan få samma typ av övervakning och fjärrstyrning på något annat sätt en "Online" så tar jag mycket hellre det och lämnar tillbaka Online-grejerna!
+
+Alternativet som Tommy pratar om är Thermiq.net en lösning där du själv loggar dina värden och presenterar dem på webben mha en Raspberry pi och ett interface till värmepumpen. Då får du kontinuerlig loggning av alla data på minutbas och sammanställning på tim och dagsbas.
+
+Svarar gärna på frågor runt ThermIQ.net, Loggning och styrning av din Thermia-värmepump över internet
+
+Min Online har inte fungerat alls sedan igår...ett mail till återförsäljaren håller på att formuleras för att häva köptet på denna skräpprodukt...
+
+﻿ Blom- modell för tappning vektor illustrationer. Illustration av utsmyckat - 33047349
+
+Logga in Bli medlem GRATIS Priser och nerladdningsplaner
+
+Unika inblickar i Sveriges spionage under kalla kriget
+
+Kalla kriget framstår alltmer som en viktig epok i svensk historia ? inte minst när det gäller bilden av säkerhetspolitiken. Samtidigt har det saknats en översiktlig skildring av den svenska underrättelsetjänsten under denna tid. Vad var dess syfte? Vilka hemliga operationer genomfördes? Och hur såg relationerna ut till andra underrättelsetjänster?
+
+Wilhelm Agrell är en av Sveriges främsta experter på underrättelseanalys. Utifrån tidigare konfidentiellt källmaterial har han nu skrivit boken Sprickor i järnridån, som ger en fascinerande och heltäckande bild av den hemliga underrättelsetjänstens arbete under en viktig och på många sätt farofylld tid.
+
+I arbetet med boken har han använt sig av två tidigare hemligstämplade tjänstedagböcker från det så kallade T-kontoret, skrivna av chefen Thede Palm och hans medhjälpare Curt Andreasson. Dagböckerna ger unika inblickar i deras arbete ? som var ett komplicerat och riskfyllt spel. Sverige var en liten men inte oviktig bricka i kalla krigets stora spel.
+
+En av landets främsta experter på underrättelseverksamhet skriver om ett tidigare okänt ämne i svensk litteratur!
+
+USA:s och Sovjetunionens ömsesidiga önskan att efter krigsslutet 1945 kontrollera Östeuropa involverade till en början inga militära planer. Men efter hand ökade risken för en väpnad konfrontation. Världen fasade för ett atomkrig. Men i det krig som kom att utkämpas, var det inte arméer och massförstörelsevapen som sattes in. Den verkliga kampen fördes i underrättelsetjänsterna, som med övervakningssystem och agentnät försökte infiltrera och kontrollera varandra.
+
+Stora mängder nytt material finns bland källorna när Agrell skildrar det spionage som pågick i nära ett halvt sekel. Boken, som sträcker sig från 1945 fram till 1989, rör sig på två plan. Dels på ett översiktligt som beskriver förhållandet mellan de två supermakterna, dels skildras enskilda händelser och människoöden.
+
+"Agrells bok är väsentlig och innehåller betydligt mer än det sedvanliga omtugget av sägenomspunna agenter och kontraspioners öden."
+
+"Agrell skriver intresseväckande för den som är intresserad av modern historia. Han kastar nytt ljus över en tid då kärnvapenkriget hotade att utplåna oss alla."
+
+"Agrell ger intressanta svar i en kunnig, saklig och välskriven berättelse."
+
+Venona var det kalla krigets längsta och mest hemliga underrättelseoperation. Brittiska och amerikanska chifferexperter dechiffrerade, med hjälp av svensk radiotrafik, den sovjetiska underrättelsetjänstens till synes olösliga koder. Venona - spåren av ett underrättelsekrig handlar om Sveriges roll i ett hemligt samarbetsprojekt, jakten på sovjetisk illegal verksamhet fram till 1970-talet och Sovjetunionens underrättelseverksamhet.
+
+Wilhelm Agrell är docent i historia. Tidigare böcker på Historiska Media är: Fred och fruktan (2000), Svenska förintelsevapen (2002), Venona, spåren från ett underrättelsekrig(2003), Skuggor runt Wallenberg (2006), Stockholm som spioncentral (2006) och Maskerad front (2008).
+
+Här kartlägger Wilhelm Agrell Stockholm som europeisk spioncentral under andra världskriget. Han gör som spionerna gjort, han lägger pussel. Agrell för samman fakta från olika källor, och fram träder en bild av Stockholm som ett internationellt spionnäste. Stockholms betydelse bevisas väl av att amerikanska legationen ökade sin personal från från tio till fyrahundra på fyra år.
+
+Spionerna spionerade på Sverige, men ännu mer på varandra, ibland spionerade de på sig själva. De sovjetiska spionerna bevakade till exempel sin ambassadör Alexandra Kollontaj, och norrmännen kan ha dödat en misstänkt spion bland sina egna män på Östermalm.
+
+Det har gått drygt 60 år sedan andra världskriget tog slut. Sedan dess har flera arkiv öppnats, dimmorna lättat, och bilden av förhållandena har klarnat.
+
+Det är en märklig och intressant promenad den så kunnige konfliktforskaren Wilhelm Agrell tar oss med på. Naturligtvis kan vi följa honom både på kartan och i nytagna bilder av de olika "tillhållen".
+
+Underrättelsevetenskapen handlar om analyser och förutsägelser om komplexa mönster i omvärlden. Det är en hemlig vetenskap som haft långt fler utövare än teoretiker och som i hög grad saknat de öppna vetenskapernas kritiska diskussion kring metoder och teoribildning. Konsten att gissa rätt är ett av de första arbeten som konsekvent tar upp underrättelseanalysens problem ur ett vetenskapligt och metodologiskt perspektiv. Boken är en introduktion till ett intressant och alltmer betydelsefullt kunskapsfält.
+
+Högaktuell bok om övervakning av en av Sveriges främsta experter
+
+I juni 2013 fylldes världens media av avslöjanden från den avhoppade IT-teknikern Edward Snowden. Rapporteringen visade ett omfattande övervakningsnät, och att de som låg bakom var underrättelsetjänster i samarbete med telekomföretag och IT-jättar.
+
+Hur har detta globala övervakningssystem kommit till? Och hur har det nått en så svindlande omfattning?
+
+I Vem kan man lita på? redogör Wilhelm Agrell, historiker och professor i underättelseanalys, för denna högaktuella utveckling.
+
+Wilhelm Agrell är historiker med inriktning på freds- och konfliktsvetenskap samt professor i underrättelseanalys vid Lunds universitet. Agrell är också verksam som författare och för Historiska Media har han skrivit följande böcker: Fred och Fruktan. Sveriges säkerhetspolitiska historia 1918-2000 (2000), Svenska förintelsevapen (2002), Venona. Spåren från ett underrättelsekrig (2003), Skuggor runt Wallenberg. Uppdrag i Ungern 1943-1945 (2006), Stockholm som spioncentral (2006) och Maskerad front. Kalla krigets underrättelsehistoria (2008).
+
+Officiellt är Jakob i Tel Aviv för att knyta kontakter på en konferens om internationell terroristbekämpning. Men hans verkliga uppdrag är att så diskret som möjligt avveckla ett politiskt alltmer belastande samarbete mellan Sverige och Israel. Bit för bit dras Jakob in i en familjetragedi och ett skuggspel med en okänd motpart. Mannen från Suez är en berättelse om underrättelsearbetets sällsamma lockelse och ett Israel där känslan av att vara oövervinnerlig för länge sedan blivit alltmer ihålig.
+
+Hur kan man på kort tid förvandlas från en helt vanlig tjugoåring till en kallhamrad IRA-terrorist?
+
+Dödsbudet bygger på en verklig händelse: sprängningen av en buss i London 1996. Den unge attentatsmannen, tjugoårige Anthony, som själv omkom vid explosionen, lämnade många frågor efter sig. Hans familj och vänner förstod ingenting. Vad gjorde en till synes helt vanlig irländsk kille med en bomb i London? Hur hade han kommit kontakt med IRA? Med små medel skapar Wilhelm Agrell en mycket spännande och engagerande berättelse.
+
+Wilhelm Agrell, född 1950, är docent i historia och en flitig debattör. Han har skrivit en rad fackböcker och vuxenromaner. Dödsbudet är hans första ungdomsroman.
+
+Föreställ dig ett museum år 2050. I staden, i glesbygden eller någonstans däremellan. Vilka är där? Vad upplever de? Kommer de att komma tillbaka?
+
+Den här boken handlar om dem, om framtidens besökare och deras förväntningar, beteenden och drömmar. Riksutställningar har bett 17 visionärer från olika expertområden att närma sig framtiden utifrån sina perspektiv, som rymmer alltifrån vår tids normkritik till megatrender som digitalisering, automatisering och urbanisering.
+
+Kartan de tecknar visar hur museernas uppdrag att spegla nutiden, minnas historien och öppna dörrar mot framtiden har potential att spela en central roll genom de kommande decenniernas samhällsförändringar.
+
+Att sjunga långsiktighetens och minnets lov, och samtidigt befinna sig i ständig rörelse, är en utmaning. I denna antologi står det klart att det är med besökaren i centrum som utmaningen behöver bemötas.
+
+De här krönikorna publicerades första gången mellan 2010-2012 i Sydsvenskan och Dagens Nyheter
+
+"Det finns i den svenska regeringens och utrikesledningens hantering av den fängslade Dawit Isaak allt tydligare och obehagligare paralleller till Raoul Wallenberg, det största och mest utdragna diplomatiska misslyckandet i Sveriges moderna historia. I båda fallen kom Sverige att förlita sig på tyst diplomati. Men resultatet blev mörkläggning på hemmaplan och en förödande flathet gentemot förövarna, de regimer som inte fick provoceras genom öppen och tydlig kritik."
+
+Wilhelm Agrell, född 1950 i Uppsala, är svensk säkerhetspolitisk forskare, skribent och författare. Efter militärtjänsten tog han värvning som FN-soldat och tjänstgjorde vid Suezkanalen 1973-74. Efter ett antal år i den svenska underrättelsetjänsten skrev han sin dok- torsavhandling i historia om de svenska planerna på att utveckla kärnvapen på 1950- och 60-talet. 2006 blev han professor i underrättelseanalys vid Lunds universitet. Wilhelm Agrell har under mer är trettiofem år varit en återkommande kritisk kommentator av svensk utrikes- och försvarspolitik med ett speciellt gott öga till den offentliga lögnen i dess många över tiden växlande former.
+
+Telegram Journalistik ger ut god journalistik som publicerats genom tiderna - i bokform. Krönikor, essäer, reportage, artiklar, spännande features, djuplodande intervjuer, grävande reportage - journalister från den så omsusade magasinsboomen under 80-, 90- och 00-talet öppnar sina digra arkiv, och det har skrivits fantastiska texter även innan dess som nu kan tillgängliggöras igen. Det skrivs dessutom nya texter, som nu kan läsas direkt - i en e-bok eller en tryckt bok, läsaren väljer.
+
+De här krönikorna publicerades första gången i Dagens Nyheter 2001-2002, och i Sydsvenskan 2006-2008
+
+"För det internationella samfundet kan det i extremfall vara nödvändigt att tillgripa våldsmedel. Detta gällde i slutet av Bosnienkriget och borde ha gällt inför folkmordet i Rwanda. Men det handlar just om extremfallen, den rutinmässiga användningen av krig som universalinstrument i den internationella politiken sedan slutet av 1990-talet är i grunden något helt annat."
+
+Wilhelm Agrell, född 1950 i Uppsala, är svensk säkerhetspolitisk forskare, skribent och författare. Efter militärtjänsten tog han värvning som FN-soldat och tjänstgjorde vid Suezkanalen 1973-74. Efter ett antal år i den svenska underrättelsetjänsten skrev han sin doktorsavhandling i historia om de svenska planerna på att utveckla kärnvapen på 1950- och 60-talet. 2006 blev han professor i underrättelseanalys vid Lunds universitet. Wilhelm Agrell har under mer är trettiofem år varit en återkommande kritisk kommentator av svensk utrikes- och försvarspolitik med ett speciellt gott öga till den offentliga lögnen i dess många över tiden växlande former.
+
+De här krönikorna är publicerade första gången i Sydsvenskan mellan 2001-2011
+
+"Vännerna, grannarna och skolkamraterna står där alla svarslösa. Han var ju en vanlig kille, framhåller de. Och en vanlig kille är inte en sådan som man väntar sig skall vilja bli massmördare, Sveriges förste självmordsbombare. Steget är för långt, glappet för stort. Grannfrun skakar på huvudet, säger att hon inte kan förstå det här."
+
+Raoul Wallenberg behöver ingen närmare presentation, internationellt är han en av de mest kända svenskarna. 1944 kom Wallenberg till Ungern med uppdraget att rädda de judar som befann sig där. Han tillfångatogs året efter av sovjetarmén och fördes till Moskva. Frågan "varför" har sedan dess förbryllat forskare och allmänhet, och än idag är gåtan olöst.
+
+Skuggor runt Wallenberg tar fram nya fakta om personerna runt Wallenberg, vilket för oss en bit närmare gåtans lösning. I boken berättas om de underrättelsetjänster och specialoperationer som utspelades i Ungern 1943-45. Parallellt med Wallenbergs hjälpaktioner sjöd staden av en dold underrättelseverksamhet, som gjorde att Wallenbergs uppdrag kom att framträda mer konspirativt än vad det verkligen var. Agrells slutsats är att Raoul Wallenberg utnyttjades av underrättelsetjänster i deras syften, utan att han själv var medveten om det.
+
+Skildringen bygger på dokument ur amerikanska, brittiska, tyska och svenska underrättelsearkiv som successivt blivit tillgängliga för forskning.
+
+I april 1954 sökte de höga KGB-officerarna Jevdokia och Vladimir Petrov politisk asyl i Australien. De var det kalla krigets första stora avhoppare och de kunde ge de västliga underrättelsetjänsterna ovärderlig förstahandsinformation.
+
+Mycket av informationen visade sig gälla Sverige, där paret varit stationerat 1943?47, vilket ledde till att Säpo kunde gripa flera agenter. Vladimir Petrov hade dock inte valt friheten, han flydde undan ett obevekligt öde och skräcken för det gav honom inget val. Och makens avhopp försatte Jevdokia i en fruktansvärd situation, ett val mellan två avgrunder. Wilhelm Agrell har i denna spännande och dramatiska skildring av två människoöden utgått från ett omfattande material från australiska, brittiska och svenska säkerhetstjänster som först på senare tid blivit offentligt.
+
+De här krönikorna publicerades första gången mellan 2007-2014 i Svenska dagbladet och Sydsvenskan
+
+Både det svenska försvaret och försvarsdebatten tog timeout i början av 00-talet. Men sedan började orosmolnen skockas, både i omvärlden och på hemmaplan, sedan ÖB avslöjat att dagens försvar bara klarade av att hålla stånd i högst en vecka, och då bara på en plats.
+
+Det var som om man i Sverige plötsligt vaknade till efter en lång försvarspolitisk dvala bara för att upptäcka att det försvar som många trodde ändå måste finnas undangömt någonstans inte längre existerade. Försvaret hade under sin timeout stöpts om i grunden och allt det gamla var borta. Det tråkiga var bara att pengarna inte räckt till det nya och det man lyckats få på fötter var avsett för internationella insatser, inte för försvar av det egna landet. Så enveckasförsvaret var egentligen en bonus, eftersom det aldrig varit meningen att det nya försvaret skulle kunna försvara landet. Det välvilligaste man kan säga om 2000-talets svenska försvarsreform är att den genomfördes med stor grundlighet och att det bakomliggande feltänkandet ståndaktigt försvarades in i det sista.
+
+Wilhelm Agrell, född 1950 i Uppsala, är svensk säkerhetspolitisk forskare, skribent och författare. Efter militärtjänsten tog han värvning som FN- soldat och tjänstgjorde vid Suezkanalen 1973-74. Efter ett antal år i den svenska underrättelsetjänsten skrev han sin doktorsavhandling i historia om de svenska planerna på att utveckla kärnvapen på 1950- och 60-talet. 2006 blev han professor i underrättelseanalys vid Lunds universitet. Förutom en lång rad fackböcker har han skrivit reportage, skönlitteratur och ungdomsromanerna Dödsbudet och Desertwalker.
+
+Wilhelm Agrell har under mer är trettiofem år varit en återkommande kritisk kommentator av svensk utrikes- och försvarspolitik med ett speciellt gott öga till den offentliga lögnen i dess många över tiden växlande former.
+
+Året är 1978. På den svenska bestickningen i Helsingfors har Johan Åkerman nyligen börjat sin tjänstgöring. Men bakom diplomatpasset döljer sig något helt annat - den svenska underrättelsetjänstens hemlige representant i den finska huvudstaden, chefen för det som kort och gott kallas Helsingforsstationen. För Johan och hans finsk-baltiska hustru Niki öppnar placeringen i Helsingfors dörren till en värld som har nyhetens alla behag. Men dörren har också öppnats in till en annan värld, till underrättelsearbetets hemliga lockelser och demoralisering.
+
+Tanken att kultur också är försvar har en större giltighet än vad vi kanske omedelbart associerar till, både idag och år 2050. Koppling mellan säkerhetspolitik, samhällsgemenskap och kulturyttringar är dock tveeggad. Kulturen kan överbrygga konflikter och skapa gemensamma kontaktytor och referensramar, men samtidigt finns det motsatta: kulturen i maktens och nyordningens tjänst.
+
+Denna text publicerades ursprungligen som ett kapitel i antologin Museerna och besökarna 2050 : en framtidsantologi från Riksutställningar (8tto förlag), red. Karin Henriksson och Evelina Wahlqvist.
+
+Utveckling av kemiska och nukleära stridsmedel 1928-70
+
+Svenska förintelsevapen handlar om en del av den svenska efterkrigshistorien som genererat oändliga bortförklaringar och skönmålningar. 1945 inledde svenska försvarsforskare studiet av det nya supervapnet - atombomben - något som snart växte till Sveriges enskilt största militära forskningsprogram. Syftet var inte bara att utveckla kärnvapen utan också alla de anläggningar som krävdes. Även om existensen av ett vapenprogram förnekades blev planerna på svenska kärnvapen en stor inrikespolitisk stridsfråga.
+
+Men i det fördolda växte ännu ett vapenprogram fram: kemisternas motsvarighet till fysikernas atombomb. Det handlade om utvecklingsarbetet kring kemiska stridsmedel - komplett med nervgasfabrik, specialammunition och vapenbärare.
+
+När de hemligstämplade dokumenten från den här tiden successivt släpptes fria gav det Wilhelm Agrell en unik möjlighet att beskriva de hemliga projektens förlopp, och deras vetenskapliga och tekniska resultat. Här möts civila och militära parter i ett informellt samarbete, men också i konflikter och motstridiga intressen. Och vid sidan av alla säkerhetspolitiska eller historiska aspekter är detta i högsta grad en berättelse värd att berätta.
+
+Fred och fruktan är det första stora översiktsverket över svensk säkerhetspolitik under 1900-talet. Wilhelm Agrell knyter här samman en rad omdebatterade teman i svensk samtidshistoria. Han synar bland annat eftergiftspolitiken under andra världskriget, dubbelspelet kring neutraliteten, Sveriges deltagande i embargopolitiken, DC 3-affären och ubåtskrisen.
+
+En genomgående linje är att det funnits ett intrikat och motsägelsefullt förhållande mellan ord och handling; mellan den uttalade politiken och det som faktiskt genomförts. Det har ofta varit en liten krets av personer som spelat en avgörande roll i de politiska besluten. Författaren kartlägger och granskar dessa outtalade nätverk.
+
+Utifrån Wilhelm Agrells diskussioner framträder helhetslinjerna i svensk säkerhetspolitik. Fred och fruktan ger en klargörande överblick av den långa epok då den svenska neutralitetslinjen växte fram och blev en dominerande ideologi.
+
+När vi var i Afghanistan sa man hela tiden att vi var där för att göra skillnad. Jag vet inte om vi gjorde det. När jag tänker på det nu tror jag att det snarare var Affeland som gjorde skillnad med oss, utan att vi märkte det medan det hände.
+
+Vad driver en vanlig svensk kille att åka iväg som soldat till en krigshärd? Och vad händer egentligen med ett psyke i skarpt läge - när beslutet om att döda andra människor måste fattas helt utan eftertanke? Den nyutbildade svenska soldaten Marcus förväntar sig det stora äventyret när han får chansen att åka till Afghanistan för att ansluta sig till den svenska styrkan på plats. Under den rutinerade mentorn Djungel-Jims beskydd får han skåda kriget på nära håll. Men kriget är svårbegripligt och våldet oförutsägbart och ingenting blir som han föreställt sig.
+
+Wilhelm Agrell är författare, freds- och konfliktforskare samt professor i underrättelseanalys med stor kännedom om kriget i Afghanistan. Affeland bygger bland annat på författarens egna intervjuer med soldater som varit på plats i Afghanistan.
+
+Han har skrivit en rad faktaböcker, vuxenromaner och ungdomsböcker och blivit belönad med Nils Holgerssonplaketten.I e-boken medföljer bonusmaterial i form av autentiska foton från det svenska lägret.
+
+Under det nya varumärket dito lanserades under hösten 2011 en helt nytt koncept för e-böcker och digitala ljudböcker.
+
+Dito är Bokus satsning på digitala böcker och har idag över 1 000 000 svenska och engelska e-böcker och digitala ljudböcker.
+
+Dito nominerades 2012 till Internetworld Topp 100.
+
+Jag fick ett mail av Madde som undrade om jag kunde hjälpa henne att lägga in hennes historia och självklart hjälper jag henne med det. Vissa människor får gå genom mer än andra. Hon har själv valt bilderna.
+
+Jag var 15 år och satt i omklädningsrummet på badplatsen tillsammans med min bästa kompis Colan. Jag hade precis kommit hem från Norge gör jag varit på scoutläget i två veckor. Colan hade bott i hos mina föräldrar under tiden då hennes föräldrar bråkar väldigt mycket. Hon skruvade på sig och ville berätta något för mig och jag förstod att det var något hon tyckte var svårt. Jag sa till henne att helt enkelt bara berätta det, jag ville vara ett stöd till henne för jag trodde det handlade om hennes föräldrar. Det hon skulle berätta för mig var inte i närheten av vad jag någonsin kunde i min vildaste fantasi kunnat tänka mig.
+
+Hon såg på mig med lite rädd och osäker blick och jag uppmuntrade henne.
+
+Jag bara såg på henne en lång stund och var inte förmögen att säga ett ljud. Jag var säker på att jag hört rätt men ändå inte.
+
+När jag lyckats att samla ihop tankarna kunde jag bara få fram – hur vet du det?
+
+Hon berättade att hon hört mina föräldrar prata och att min pappa hade sagt till min mamma att Lena (det är så jag kallas i min familj) måste någongång få veta vem som är hennes biologiska pappa. Mamma ville vänta lite till för hon ville inte göra mig ledsen.
+
+Pappa hade fortsatt att argumentera för att jag skulle få veta sanningen, men mamma ville absolut inte.
+
+Vi badade och efter badet cyklade jag hem. Jag sa inte ett ljud till mina föräldrar till en dag ca 14 dagar senare. Pappa och jag hamnade i bråk vid frukosten och jag visste att jag hade fel. Jag kände mig i underläge och spände ögonen i pappa och frågade honom med ilsken röst: Är du inte min pappa? I samma stund önskade jag att tungan hade skurits ur munnen på mig. Hur kunde jag sänka mig så lågt och haspla ur mig det på detta grymma sätt? Jag trodde det handlade om att jag ville vinna, flera år senare förstod jag att det inte handlade om det.
+
+Jag bedyrade snabbt att det inte gjorde någonting. Jag var inte arg. Jag tog på mig hela skulden för mitt sätt att hantera detta. Jag mådde mer dåligt av hur jag hanterade situationen än själva faktumet att jag hade varit lurad i 15 år.
+
+Alla visste utom jag och mina syskon. Ingen berättade det för mig och jag mådde mest dåligt över att jag kunde vara så elak.
+
+Efter det tillfället kan jag inte minnas mer än att jag fick reda på vad min pappa hette, var han ev bodde och att dom trodde att jag hade syskon.
+
+Jag vet inte hur många gånger jag försäkrade att jag inte var arg och inte lade skulden på någon, jag trodde på det själv. Jag övertygade mig så stark.
+
+Det gick ett år och jag tänkte inte medvetet på det, omedvetet pågick det en process djupare än jag någonsin kunde föreställa mig. Det gick inte så bra i skolan längre, jag var helt enkelt inte intresserad av skolan. Jag ville bara vara med mina hästar, min livsglädje, mitt hela liv. Mina hästar räddade livet på mig, utan dom vet jag inte hur det hade gått. Jag hamnade i dåligt sällskap och det kunde ha gått illa, men eftersom jag har en sådan pliktkänsla så blev hästarna min räddning för jag kom alltid hem eftersom hästarna behövde mig och jag dom.
+
+Jag minns att jag vid något tillfälle frågade min mamma och min biologiska pappa och vad som hände. Hon svarade att hon var ung när hon blev gravid (17 år) och att min biologiska pappa var en spelare och drack en hel del. Mormor hade också en hel del synpunkter på honom och om jag har förstått det rätt så hämtade hon helt sonika hem min mamma. Det var allt hon berättade, det var helt klart ett känsligt ämne. Jag fick helt enkelt inte reda på mer av henne. Tanken att ta kontakt med honom då slog mig aldrig och han trycktes både medvetet och omedvetet långt ner i själen.
+
+En dag när jag var 17 år och jag kom hem från jobbet infann det sig en konstig känsla. Jag visste inte vad det var, men något kändes djupt inom mig. Jag satte på vattnet i badkaret och lät det forsa medan jag hämtade telefonen och satte den på toastolen. Jag hade lång skarvsladd till telefonen då det var före den sladdlösa telefonens tid. Detta med telefonen var inte likt mig, jag är ingen telefonmänniska, har aldrig varit och i normala fall tog jag aldrig in telefonen till badet, då ville jag vara ifred.
+
+Jag hann inte mer än att sätta mig i badet förrän telefonen ringde och när jag svarade hörde jag min förtvivlade mamma som berättade att Ambulansen precis hämtat min pappa för han var medvetslös och dom trodde inte han skulle överleva natten. Jag tror att tankar helt enkelt kan stanna i nuet som om någon trycker på en paus knapp. Det stod helt still. Jag försökte tänka men det gick inte. Tillslut sinnade jag mig och jag hörde mig själv lova att ta tåget nästa morgon så fort det gick och komma hem. Jag ringde min arbetsgivare som gav mig ledigt och han fixade så att jag fick skjuts in till stationen nästa morgon.
+
+Jag vaknade av att telefonen ringde, det var min mamma som berättade att min pappa är död. Han klarade inte natten. Strax innan dom skulle göra en hjärnröntgen så dog han bara.
+
+Jag vet inte hur det gick till, men ett par timmar senare satt jag på tåget på väg till mamma och mina syskon. När jag kom fram så samlades vi tillsammans en stund och min mamma var totalt förstörd. Hon bad mig att ringa de där jobbiga samtalen som bara måste ringas. Hon hade pratat med farfar och morfar. Både farmor och mormor var döda sedan tidigare. Jag kommer plötsligt på att pappa hade sagt till mig två år tidigare när vi var på mormors begravning att det är bra att ha varit på en begravning för man vet aldrig vem det gäller nästa gång. Nu undrar jag om han visste att det skulle bli hans begravning då det visade sig att han tagit tabletter och valt att gå till den andra sidan istället för att leva tillsammans med oss.
+
+Jag ringer i varje fall de där jobbiga samtalen och några veckor senare sker begravningen.
+
