@@ -21,3 +21,4 @@ Knowledge distillation from XLM-R Large (teacher) to XLM-R Base (student):
 - Loading tokenized and split datasets for selected languages.
 - Training the student model with distillation loss, combining MSE loss between intermediate layers and KL divergence between final logits.
 
+Code: `./distillation/idl.ipynb`
